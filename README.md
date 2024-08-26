@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Public%20Sector%20and%20Government by Jobright.ai
+# Daily Intern Jobs in Public Sector and Government by Jobright.ai
 
 
 
