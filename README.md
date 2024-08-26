@@ -1,12 +1,12 @@
 
-# Daily Intern Jobs in Public Sector and Government by Jobright.ai
+# Daily New Grad Jobs in Public Sector and Government by Jobright.ai
 
 
 
-**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:**  and Policy and Planning.
+**This job repository is your go-to resource for discovering and sharing the latest new grad opportunities in:**  and Policy and Planning.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available new grad positions, for a comprehensive list of new grad jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
@@ -87,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Cal OES](https://www.caloes.ca.gov/)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c8ec03a22afd22e8f62ce9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 23 |
 | **[RealManage](http://realmanage.com)** | **[Community Association Manager](https://jobright-internal.com/jobs/info/66bfb58a1d9bf96c293cd56d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa, FL | On Site | Aug 23 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Junior Intelligence Analyst](https://jobright-internal.com/jobs/info/66c8d036631640399086a6cc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sterling, VA | On Site | Aug 23 |
-| **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66cac377f084d7ebc6fec272?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento County, CA | On Site | Aug 22 |
+| **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66cac377f084d7ebc6fec263?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento County, CA | On Site | Aug 22 |
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[Youth Advisory Board Member](https://jobright-internal.com/jobs/info/66c81b6ea6753155ad9eb153?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Monterey Park, CA | On Site | Aug 22 |
 | **[Aramark](http://www.aramark.com)** | **[Corrections Oversight Worker](https://jobright-internal.com/jobs/info/66cabff600e5f99a86c40b62?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dublin, CA | On Site | Aug 22 |
 | **[United States Institute of Peace](http://www.usip.org/)** | **[Program Assistant, Legislative Affairs](https://jobright-internal.com/jobs/info/66c8325858b33ebc8d313358?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Aug 22 |
@@ -173,7 +173,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Licensing Analyst](https://jobright-internal.com/jobs/info/66c5464ab8ec8eecf4817b60?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Aug 20 |
 | **[Housing and Community Development](https://www.hcd.ca.gov/)** | **[Disaster Recovery Single-Family Housing Programs Specialist](https://jobright-internal.com/jobs/info/66c5246e93950544f36d8fdf?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 20 |
 | **[California Department of Insurance](https://www.insurance.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c5288e9f4da919a6e2d4db?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Aug 20 |
-| **[California Department of Public Health](http://www.cdph.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c511ef24518864fe2794ce?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Aug 20 |
 | **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[Health Services Policy Analyst](https://jobright-internal.com/jobs/info/66c50df1d473b0a65c12311d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Columbus, OH | Hybrid | Aug 20 |
 | **[The Salvation Army USA Eastern Territory](http://easternusa.salvationarmy.org)** | **[Program Coordinator](https://jobright-internal.com/jobs/info/66c51878d76449da38c44511?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lebanon, PA | On Site | Aug 20 |
 | **[Fors Marsh Group](https://www.forsmarsh.com/)** | **[Research Associate, Military Health & Wellbeing Research](https://jobright-internal.com/jobs/info/66c5095c5bec3e48f9c8c6f1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Aug 20 |
