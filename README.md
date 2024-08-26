@@ -1,2 +1,210 @@
-# 2025-Public-Sector-and-Government-New-Grad
-Collection of 2025 New Grad Jobs in Public Sector and Government!
+
+# Daily Intern Jobs in Public Sector and Government by Jobright.ai
+
+
+
+**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:**  and Policy and Planning.
+
+
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Public Sector and Government&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+
+---
+
+<div align="center">
+<p>
+    <a href="https://jobright.ai/?utm_campaign=Public Sector and Government&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <br>
+    <br>
+    <a href="https://jobright.ai/?utm_campaign=Public Sector and Government&utm_source=1103">
+        <img src="./static/img/jrbtn.svg" alt="jobright.ai">
+    </a>
+    <br>
+    <br>
+    <i>
+    <sub> 
+        <h5>
+        Jobright is your personal AI career assistant, transform your job search from solo, time-consuming efforts 
+        <br>
+        to a co-piloted journey with a seasoned AI career assistant at the helm.
+        </h5>
+    </sub>
+    </i>
+</p>
+<p>
+    <sub> 
+        <h6>
+            Feedback? Questions? Reach out at <a href="mailto:support@jobright.ai">support@jobright.ai</a> to help us enhance this list. ❤️
+        </h6>
+    </sub>
+</p>
+
+---
+<h4>
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
+<br>
+For a complete list, click the following sortable link below:
+</h4>
+<a href="https://newgrad-jobs.com/?selectedKey=🏛%EF%B8%8F%20Public%20Sector%20and%20Government&utm_source=1103&utm_campaign=Public Sector and Government">
+    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
+</a>
+</div>
+
+---
+## Daily Job List  🌐 🧭 🏆
+
+
+<!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
+
+| Company | Job Title | Location | Work Model | Date Posted |
+| ----- | --------- |  --------- | ---- | ------- |
+| **[Kentech](https://www.ekentech.com)** | **[Investigative Analyst Level 1](https://jobright-internal.com/jobs/info/66cbc8e81fd5f22a722e02f8?utm_campaign=Public Sector and Government&utm_source=1103)** | Chicago, IL | On Site | Aug 25 |
+| **[San Francisco Human Services Agency](https://www.sfhsa.org)** | **[Protective Services Worker - Adult Protective Services](https://jobright-internal.com/jobs/info/66cb34aa5c0f4dddae160cb8?utm_campaign=Public Sector and Government&utm_source=1103)** | San Francisco, CA | On Site | Aug 25 |
+| **[RAND](http://www.rand.org)** | **[China Analyst](https://jobright-internal.com/jobs/info/6656859f261cdacfc028f303?utm_campaign=Public Sector and Government&utm_source=1103)** | Washington, DC | On Site | Aug 25 |
+| **[Metropolis](http://www.metropolis.io)** | **[Parking Enforcement Auditor](https://jobright-internal.com/jobs/info/665a62b6146efb6d657957dd?utm_campaign=Public Sector and Government&utm_source=1103)** | Knoxville, TN | Hybrid | Aug 25 |
+| **[Citizant](https://citizant.com)** | **[Government Badging & Credentialing Specialist](https://jobright-internal.com/jobs/info/66ca538c11e5c19d518859e4?utm_campaign=Public Sector and Government&utm_source=1103)** | San Jose, CA | On Site | Aug 24 |
+| **[National Governors Association](http://www.nga.org/cms/home.html)** | **[Policy Analyst (Energy)](https://jobright-internal.com/jobs/info/66761aaa127b183117fe80cb?utm_campaign=Public Sector and Government&utm_source=1103)** | DC-Baltimore Area | On Site | Aug 24 |
+| **[California Department of Developmental Services](https://www.dds.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66ad49eee54271de49563348?utm_campaign=Public Sector and Government&utm_source=1103)** | Orange County, CA | Hybrid | Aug 24 |
+| **[Institutional Shareholder Services](http://www.issgovernance.com/)** | **[U.S. Environmental & Social Issues Analyst](https://jobright-internal.com/jobs/info/66ad5957840cef59d4cedb2a?utm_campaign=Public Sector and Government&utm_source=1103)** | Washington, DC | Hybrid | Aug 24 |
+| **[California Department of Developmental Services](https://www.dds.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66ad49eee54271de4956334a?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 24 |
+| **[California Health & Human Services Agency](http://chhs.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66ad6be7083d8b1ebcb93f6d?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento, CA | On Site | Aug 24 |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Analyst, Technical Operations Government Programs](https://jobright-internal.com/jobs/info/66ad7645666b9692e91e673c?utm_campaign=Public Sector and Government&utm_source=1103)** | United States | Remote | Aug 24 |
+| **[Dignity Health](https://www.dignityhealth.org)** | **[Agency Program Aide](https://jobright-internal.com/jobs/info/66c98e3937d3e0b62f0b117c?utm_campaign=Public Sector and Government&utm_source=1103)** | Redding, CA | On Site | Aug 23 |
+| **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c9390e9a01c3694b77af47?utm_campaign=Public Sector and Government&utm_source=1103)** | San Luis Obispo County, CA | Hybrid | Aug 23 |
+| ↳ | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c9390e9a01c3694b77af36?utm_campaign=Public Sector and Government&utm_source=1103)** | Los Angeles, CA | On Site | Aug 23 |
+| **[State of Illinois](https://www2.illinois.gov/)** | **[Private Secretary I](https://jobright-internal.com/jobs/info/66c944a107756189b1c9205d?utm_campaign=Public Sector and Government&utm_source=1103)** | Chicago, IL | On Site | Aug 23 |
+| **[University of California, Santa Cruz](http://www.ucsc.edu)** | **[Advocate, CARE/Center for Advocacy, Resources & Empowerment](https://jobright-internal.com/jobs/info/66c9390e9a01c3694b77b015?utm_campaign=Public Sector and Government&utm_source=1103)** | Santa Cruz County, CA | Hybrid | Aug 23 |
+| ↳ | **[Intake & Administrative Analyst](https://jobright-internal.com/jobs/info/66c9390e9a01c3694b77b018?utm_campaign=Public Sector and Government&utm_source=1103)** | Santa Cruz County, CA | On Site | Aug 23 |
+| **[NC Department of Adult Correction](http://dac.nc.gov)** | **[Correctional Case Analyst](https://jobright-internal.com/jobs/info/66c9390e9a01c3694b77b0c4?utm_campaign=Public Sector and Government&utm_source=1103)** | Rowan County, NC | On Site | Aug 23 |
+| **[California Public Utilities Commission](https://www.cpuc.ca.gov)** | **[Public Utilities Regulatory Analyst I](https://jobright-internal.com/jobs/info/66c936cf1eb24be47b4365c0?utm_campaign=Public Sector and Government&utm_source=1103)** | San Francisco County, CA | On Site | Aug 23 |
+| **[Grassroots Team, LLC](https://grassrootsteam.com/)** | **[Canvasser for Human Rights](https://jobright-internal.com/jobs/info/66c916508792f94bc2e62c53?utm_campaign=Public Sector and Government&utm_source=1103)** | Portland, Oregon Metropolitan Area | On Site | Aug 23 |
+| **[Brookdale Senior Living](https://www.brookdale.com)** | **[Memory Care Program Assistant](https://jobright-internal.com/jobs/info/66c92091b0a07c7164a1112a?utm_campaign=Public Sector and Government&utm_source=1103)** | Chapel Hill, NC | On Site | Aug 23 |
+| **[UC Irvine](http://uci.edu)** | **[Project Policy Analyst II](https://jobright-internal.com/jobs/info/66c90dfaa690e3a712e6a5e3?utm_campaign=Public Sector and Government&utm_source=1103)** | Irvine, CA | On Site | Aug 23 |
+| **[California Department of Public Health](http://www.cdph.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c902425c604aba6a8501e9?utm_campaign=Public Sector and Government&utm_source=1103)** | Richmond, CA | Hybrid | Aug 23 |
+| **[Ohio Department of Mental Health and Addiction Services](https://mha.ohio.gov)** | **[Correctional Program Coordinator](https://jobright-internal.com/jobs/info/66c90dfaa690e3a712e6a66e?utm_campaign=Public Sector and Government&utm_source=1103)** | Chillicothe, OH | On Site | Aug 23 |
+| **[All-Weather Seal of West Michigan](https://www.allweathersealinc.com)** | **[Field Canvasser](https://jobright-internal.com/jobs/info/66c9cc8f7421878e69a920ed?utm_campaign=Public Sector and Government&utm_source=1103)** | Ludington, MI | On Site | Aug 23 |
+| **[Lumen Technologies](https://news.lumen.com/home)** | **[Government Property Administrator II - Federal](https://jobright-internal.com/jobs/info/66c90d0cad70ff41ea30e085?utm_campaign=Public Sector and Government&utm_source=1103)** | Herndon, VA | On Site | Aug 23 |
+| **[Sarasota County Government](https://www.scgov.net/)** | **[Administrative Specialist - Public Works](https://jobright-internal.com/jobs/info/66c90830b518a37ced8c17ea?utm_campaign=Public Sector and Government&utm_source=1103)** | FL | On Site | Aug 23 |
+| **[Cal OES](https://www.caloes.ca.gov/)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c8ec03a22afd22e8f62ce9?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 23 |
+| **[RealManage](http://realmanage.com)** | **[Community Association Manager](https://jobright-internal.com/jobs/info/66bfb58a1d9bf96c293cd56d?utm_campaign=Public Sector and Government&utm_source=1103)** | Tampa, FL | On Site | Aug 23 |
+| **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Junior Intelligence Analyst](https://jobright-internal.com/jobs/info/66c8d036631640399086a6cc?utm_campaign=Public Sector and Government&utm_source=1103)** | Sterling, VA | On Site | Aug 23 |
+| **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66cac377f084d7ebc6fec272?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento County, CA | On Site | Aug 22 |
+| **[Children's Law Center of California](https://www.clccal.org/)** | **[Youth Advisory Board Member](https://jobright-internal.com/jobs/info/66c81b6ea6753155ad9eb153?utm_campaign=Public Sector and Government&utm_source=1103)** | Monterey Park, CA | On Site | Aug 22 |
+| **[Aramark](http://www.aramark.com)** | **[Corrections Oversight Worker](https://jobright-internal.com/jobs/info/66cabff600e5f99a86c40b62?utm_campaign=Public Sector and Government&utm_source=1103)** | Dublin, CA | On Site | Aug 22 |
+| **[United States Institute of Peace](http://www.usip.org/)** | **[Program Assistant, Legislative Affairs](https://jobright-internal.com/jobs/info/66c8325858b33ebc8d313358?utm_campaign=Public Sector and Government&utm_source=1103)** | Washington, DC | On Site | Aug 22 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Regional Liaison – Central Region](https://jobright-internal.com/jobs/info/66c8133dca432cd9f654dee8?utm_campaign=Public Sector and Government&utm_source=1103)** | Quincy, MA | Hybrid | Aug 22 |
+| ↳ | **[Regional Liaison – Southeast Region](https://jobright-internal.com/jobs/info/66c8133dca432cd9f654df07?utm_campaign=Public Sector and Government&utm_source=1103)** | Quincy, MA | Hybrid | Aug 22 |
+| ↳ | **[Regional Liaison – Western Region](https://jobright-internal.com/jobs/info/66c8133dca432cd9f654def0?utm_campaign=Public Sector and Government&utm_source=1103)** | Quincy, MA | Hybrid | Aug 22 |
+| ↳ | **[Regional Liaison – Northeast Region](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef8927c?utm_campaign=Public Sector and Government&utm_source=1103)** | Quincy, MA | Hybrid | Aug 22 |
+| **[Service Access & Management](https://sam-inc.org)** | **[Supports Coordinator - Intellectual/Developmental Disabilities Services](https://jobright-internal.com/jobs/info/66ca9a417b4bed5a9564e53e?utm_campaign=Public Sector and Government&utm_source=1103)** | Wilkes-Barre, PA | On Site | Aug 22 |
+| **[RealManage](http://realmanage.com)** | **[Community Association Manager](https://jobright-internal.com/jobs/info/66c7ea3bd8b3397ed3c16925?utm_campaign=Public Sector and Government&utm_source=1103)** | Englewood, CO | On Site | Aug 22 |
+| **[Cal OES](https://www.caloes.ca.gov/)** | **[Community Outreach and Resilience Public Information Officer](https://jobright-internal.com/jobs/info/66c93d75b3e83921ad003cbb?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento, CA | On Site | Aug 22 |
+| **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c7e54a4abc7ba025532764?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento County, CA | Hybrid | Aug 22 |
+| ↳ | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c90abc6e1c7bfab0f37756?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento County, CA | On Site | Aug 22 |
+| ↳ | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c90abc6e1c7bfab0f3775d?utm_campaign=Public Sector and Government&utm_source=1103)** | Inyo County, CA | On Site | Aug 22 |
+| **[Shawmut Services LLC](https://www.shawmutservices.com/)** | **[Voter Registration Canvass Manager](https://jobright-internal.com/jobs/info/66c8fa3624ed1b24d1f66d81?utm_campaign=Public Sector and Government&utm_source=1103)** | Madison, WI | On Site | Aug 22 |
+| **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[Soc/Clin Research Assistant](https://jobright-internal.com/jobs/info/66c8ec03a22afd22e8f62eb6?utm_campaign=Public Sector and Government&utm_source=1103)** | North Carolina, United States | On Site | Aug 22 |
+| **[Montgomery County Government](http://www.montgomerycountymd.gov)** | **[Election Aide II](https://jobright-internal.com/jobs/info/66c7e7e6945fa37d27777a2f?utm_campaign=Public Sector and Government&utm_source=1103)** | Gaithersburg, MD | On Site | Aug 22 |
+| **[Shawmut Services LLC](https://www.shawmutservices.com/)** | **[Voter Registration Canvass Manager](https://jobright-internal.com/jobs/info/66c8eee515e7212923c8ccea?utm_campaign=Public Sector and Government&utm_source=1103)** | Racine, WI | On Site | Aug 22 |
+| **[The Johns Hopkins University](https://www.jhu.edu)** | **[CO Research Program Coordinator](https://jobright-internal.com/jobs/info/66c7cae184ea9b4f45156902?utm_campaign=Public Sector and Government&utm_source=1103)** | Baltimore, MD | On Site | Aug 22 |
+| **[Access Services](https://www.accessservices.org)** | **[Homeless Outreach Worker](https://jobright-internal.com/jobs/info/66c7c854f92b5f22b6ea3ac8?utm_campaign=Public Sector and Government&utm_source=1103)** | Plymouth Meeting, PA | On Site | Aug 22 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Assistant Processor (Provider Enrollment Analyst)](https://jobright-internal.com/jobs/info/66c7c66437ac9ef1d3ceac3e?utm_campaign=Public Sector and Government&utm_source=1103)** | Wisconsin, United States | Remote | Aug 22 |
+| **[Vinfen](http://www.vinfen.org)** | **[Community Outreach Worker](https://jobright-internal.com/jobs/info/66c7a3afcc0c77bd3e8b1f71?utm_campaign=Public Sector and Government&utm_source=1103)** | Haverhill, MA | On Site | Aug 22 |
+| **[State of Illinois](https://www2.illinois.gov/)** | **[Industrial & Community Development Representative I](https://jobright-internal.com/jobs/info/66c79dcfa12041e22b797d6d?utm_campaign=Public Sector and Government&utm_source=1103)** | Springfield, IL | On Site | Aug 22 |
+| **[Multicare Health System](http://www.multicare.org)** | **[Designated Crisis Responder](https://jobright-internal.com/jobs/info/66c77c1718217fb2c3f9a174?utm_campaign=Public Sector and Government&utm_source=1103)** | Tacoma, WA | On Site | Aug 22 |
+| **[MemorialCare](https://www.memorialcare.org)** | **[Provider Demographic Management Coordinator](https://jobright-internal.com/jobs/info/66c7825382c544aa6c87d85d?utm_campaign=Public Sector and Government&utm_source=1103)** | Fountain Valley, CA | On Site | Aug 22 |
+| **[Brookdale Senior Living](https://www.brookdale.com)** | **[Memory Care Program Assistant](https://jobright-internal.com/jobs/info/66c78cc66c8bb39fea1d210b?utm_campaign=Public Sector and Government&utm_source=1103)** | Fort Collins, CO | On Site | Aug 22 |
+| ↳ | **[Memory Care Program Assistant](https://jobright-internal.com/jobs/info/66c78cc66c8bb39fea1d210d?utm_campaign=Public Sector and Government&utm_source=1103)** | Amherst, NY | On Site | Aug 22 |
+| **[The Johns Hopkins University](https://www.jhu.edu)** | **[Research Program Coordinator](https://jobright-internal.com/jobs/info/66c76271bc8683ba47a14a45?utm_campaign=Public Sector and Government&utm_source=1103)** | Baltimore, MD | On Site | Aug 22 |
+| **[Citizant](https://citizant.com)** | **[Government Badging & Credentialing Specialist](https://jobright-internal.com/jobs/info/66cb4d9f35897b08375fb8ce?utm_campaign=Public Sector and Government&utm_source=1103)** | Buffalo, NY | On Site | Aug 22 |
+| **[Opportunity Partners](https://www.opportunities.org)** | **[Residential Specialist](https://jobright-internal.com/jobs/info/667b2b381b02ac33e0d75853?utm_campaign=Public Sector and Government&utm_source=1103)** | Twin Cities Area | On Site | Aug 22 |
+| **[Citizant](https://citizant.com)** | **[Government Badging & Credentialing Specialist](https://jobright-internal.com/jobs/info/66cb12203ff3c17788de97cc?utm_campaign=Public Sector and Government&utm_source=1103)** | Bloomington, MN | On Site | Aug 22 |
+| **[HCA](http://hcahealthcare.com)** | **[Medicaid Eligibility Advocate](https://jobright-internal.com/jobs/info/66c717950f5bec70c273c575?utm_campaign=Public Sector and Government&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
+| **[The Pew Charitable Trusts](http://www.pewtrusts.org/en)** | **[Associate I, Fiscal and Economic Policy](https://jobright-internal.com/jobs/info/66aab5646bc88b69b4ae1134?utm_campaign=Public Sector and Government&utm_source=1103)** | Washington, DC | Hybrid | Aug 22 |
+| **[The Tatitlek Corporation](https://www.tatitlek.com/)** | **[Security Assistant](https://jobright-internal.com/jobs/info/66c71ea6a5c821533f8a077d?utm_campaign=Public Sector and Government&utm_source=1103)** | Arlington, VA | On Site | Aug 22 |
+| **[American Councils for International Education](https://www.americancouncils.org)** | **[Program Coordinator, International Visitor Leadership Program](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a091?utm_campaign=Public Sector and Government&utm_source=1103)** | Washington, DC | On Site | Aug 22 |
+| **[PeaceHealth](https://www.peacehealth.org)** | **[Philanthropy Gift Processing Coordinator](https://jobright-internal.com/jobs/info/66c6c9378fee7a9215d1f3d5?utm_campaign=Public Sector and Government&utm_source=1103)** | Vancouver, WA | Hybrid | Aug 21 |
+| **[Brightview Senior Living](https://www.brightviewseniorliving.com/)** | **[Vibrant Living Assistant](https://jobright-internal.com/jobs/info/66c6c9378fee7a9215d1f446?utm_campaign=Public Sector and Government&utm_source=1103)** | Woodbury, NJ | On Site | Aug 21 |
+| **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c69770930db3e872aeda4e?utm_campaign=Public Sector and Government&utm_source=1103)** | Los Angeles, CA | On Site | Aug 21 |
+| **[University of Rochester Medical Center](https://www.urmc.rochester.edu)** | **[Pediatric Registered Nurse (RN) - Research](https://jobright-internal.com/jobs/info/66c6b05dafecd15b13f60839?utm_campaign=Public Sector and Government&utm_source=1103)** | Medicine, NE | On Site | Aug 21 |
+| **[Providence](https://www.providence.org/)** | **[Housing Assistant](https://jobright-internal.com/jobs/info/66c6aea008de3cc6b42460e2?utm_campaign=Public Sector and Government&utm_source=1103)** | Eureka, CA | On Site | Aug 21 |
+| **[University of Rochester Medical Center](https://www.urmc.rochester.edu)** | **[Pediatric Registered Nurse (RN)](https://jobright-internal.com/jobs/info/66c6a03f4d1f601860d5dee5?utm_campaign=Public Sector and Government&utm_source=1103)** | Medicine, NE | On Site | Aug 21 |
+| **[The Hill](http://thehill.com)** | **[Indigenous Peoples Rights Fellow](https://jobright-internal.com/jobs/info/66c69cd58fe32f6e2235241d?utm_campaign=Public Sector and Government&utm_source=1103)** | Washington, DC | On Site | Aug 21 |
+| **[Shawmut Services LLC](https://www.shawmutservices.com/)** | **[Canvass Manager](https://jobright-internal.com/jobs/info/66c7b564ae5df64bac3c0a3f?utm_campaign=Public Sector and Government&utm_source=1103)** | Greensboro, NC | On Site | Aug 21 |
+| **[Action Property Management](http://actionlife.com)** | **[Community Relations Coordinator](https://jobright-internal.com/jobs/info/66c68aa43a1eba2aa809c41e?utm_campaign=Public Sector and Government&utm_source=1103)** | Irvine, CA | On Site | Aug 21 |
+| **[Intrepid, An Employee-Owned Company](http://intrepidinc.com)** | **[OCONUS Program Support Representative](https://jobright-internal.com/jobs/info/66c76c3817596cc9e8ab3aa6?utm_campaign=Public Sector and Government&utm_source=1103)** | Huntsville, AL | On Site | Aug 21 |
+| **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c7cae184ea9b4f451569de?utm_campaign=Public Sector and Government&utm_source=1103)** | Fresno County, CA | On Site | Aug 21 |
+| **[Common Cause](http://www.commoncause.org/)** | **[Election Protection Organizer](https://jobright-internal.com/jobs/info/66c7babeb58997a29801f605?utm_campaign=Public Sector and Government&utm_source=1103)** | Michigan | Hybrid | Aug 21 |
+| **[The Oregon Department of Human Services](https://www.oregon.gov/Pages/index.aspx)** | **[Behavioral Health Rules Coordinator](https://jobright-internal.com/jobs/info/66c7dd223c58266fd25315cc?utm_campaign=Public Sector and Government&utm_source=1103)** | Salem | OHA | Summer Street | On Site | Aug 21 |
+| **[Housing and Community Development](https://www.hcd.ca.gov/)** | **[Housing and Community Development Representative II](https://jobright-internal.com/jobs/info/66c694d536c87eb7de009866?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 21 |
+| **[Stanford University](http://www.stanford.edu)** | **[Social Science Research Coordinator](https://jobright-internal.com/jobs/info/66c67b79067b3566e0864836?utm_campaign=Public Sector and Government&utm_source=1103)** | Stanford, CA | Hybrid | Aug 21 |
+| **[The Johns Hopkins University](https://www.jhu.edu)** | **[Research Assistant](https://jobright-internal.com/jobs/info/66bc315f417e0adf5ecb7b7f?utm_campaign=Public Sector and Government&utm_source=1103)** | Baltimore, MD | Hybrid | Aug 21 |
+| **[HCA](http://hcahealthcare.com)** | **[Medicaid Eligibility Advocate](https://jobright-internal.com/jobs/info/66c6749ed26925999382df5a?utm_campaign=Public Sector and Government&utm_source=1103)** | Denver, CO | On Site | Aug 21 |
+| **[Stanford University](http://www.stanford.edu)** | **[Social Science Research Coordinator](https://jobright-internal.com/jobs/info/66c6760d5b8354e1af80024d?utm_campaign=Public Sector and Government&utm_source=1103)** | Stanford, CA | Hybrid | Aug 21 |
+| **[Brookdale Senior Living](https://www.brookdale.com)** | **[Memory Care Program Assistant](https://jobright-internal.com/jobs/info/66c66ba35680bbb26a27d08a?utm_campaign=Public Sector and Government&utm_source=1103)** | Salem, OR | On Site | Aug 21 |
+| **[Citizant](https://citizant.com)** | **[Government Badging & Credentialing Specialist](https://jobright-internal.com/jobs/info/66c6651abbddb294e836505d?utm_campaign=Public Sector and Government&utm_source=1103)** | Springfield, NJ | On Site | Aug 21 |
+| **[University of Utah](http://utah.edu)** | **[Service Corner Program Coordinator](https://jobright-internal.com/jobs/info/66c66f9d4e383d0890e03ffd?utm_campaign=Public Sector and Government&utm_source=1103)** | Salt Lake City, UT | On Site | Aug 21 |
+| **[Clean Water Action](https://www.cleanwateraction.org)** | **[Community Organizer](https://jobright-internal.com/jobs/info/66c654234daeedb2e7bbc3dd?utm_campaign=Public Sector and Government&utm_source=1103)** | Ann Arbor, MI | On Site | Aug 21 |
+| **[World Learning](http://www.worldlearning.org)** | **[Launch Assistant - IHP Human Rights](https://jobright-internal.com/jobs/info/6661fc8deca34b2833349018?utm_campaign=Public Sector and Government&utm_source=1103)** | New York, NY | Hybrid | Aug 21 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Trauma Operations Coordinator](https://jobright-internal.com/jobs/info/66c6dadbe5541ac03efa2c17?utm_campaign=Public Sector and Government&utm_source=1103)** | Danbury, CT | On Site | Aug 21 |
+| **[Gladden Community House](https://www.gladdenhouse.org/)** | **[Housing Resource Specialist](https://jobright-internal.com/jobs/info/66c66740dad76bb73c54643a?utm_campaign=Public Sector and Government&utm_source=1103)** | Columbus, OH | On Site | Aug 21 |
+| **[Auria Space](https://www.auria.space/)** | **[Junior Program Analyst](https://jobright-internal.com/jobs/info/66c64934afbe66bbdb40e821?utm_campaign=Public Sector and Government&utm_source=1103)** | Laguna Niguel, CA | On Site | Aug 21 |
+| **[THRESHOLDS](https://www.thresholds.org)** | **[Homeless Outreach Worker](https://jobright-internal.com/jobs/info/66bcd7a014f3f930d14291be?utm_campaign=Public Sector and Government&utm_source=1103)** | Chicago, IL | On Site | Aug 21 |
+| **[Vail Resorts Careers](http://www.vailresortscareers.com)** | **[Design Review Administrative Specialist](https://jobright-internal.com/jobs/info/66c62625a00a2199acab3e13?utm_campaign=Public Sector and Government&utm_source=1103)** | Beaver Creek Village, CO | On Site | Aug 21 |
+| **[Shawmut Services LLC](https://www.shawmutservices.com/)** | **[Canvass Manager](https://jobright-internal.com/jobs/info/66c6760d5b8354e1af800458?utm_campaign=Public Sector and Government&utm_source=1103)** | Phoenix, AZ | On Site | Aug 21 |
+| **[Ernst & Young](http://www.ey.com)** | **[Staff - Technology Assurance](https://jobright-internal.com/jobs/info/66a90a8d5e55e6eb33297fc1?utm_campaign=Public Sector and Government&utm_source=1103)** | McLean, VA | On Site | Aug 21 |
+| **[National Endowment for Democracy](http://ned.org/)** | **[Program Assistant, Authoritarian Influence & Kleptocracy](https://jobright-internal.com/jobs/info/667955c539ca2f81c4370d80?utm_campaign=Public Sector and Government&utm_source=1103)** | Washington, DC | Hybrid | Aug 21 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Climate Action Project Specialist](https://jobright-internal.com/jobs/info/66706888e2e83a6732cf3d9d?utm_campaign=Public Sector and Government&utm_source=1103)** | Baltimore, MD | On Site | Aug 21 |
+| **[Cedars Sinai](https://www.cedars-sinai.org)** | **[Community Research Associate](https://jobright-internal.com/jobs/info/66c5b61373d47b1a6bb5d12f?utm_campaign=Public Sector and Government&utm_source=1103)** | Los Angeles, CA | On Site | Aug 21 |
+| **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c82d5c756ebe6be0b2c725?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento County, CA | On Site | Aug 20 |
+| **[Seneca Family of Agencies](https://www.senecafoa.org)** | **[Wraparound Family Facilitator/Social Worker](https://jobright-internal.com/jobs/info/66c58b854031dddaece8f0f4?utm_campaign=Public Sector and Government&utm_source=1103)** | Oxnard, CA | Hybrid | Aug 20 |
+| ↳ | **[Bilingual Wraparound Family Facilitator/Social Worker](https://jobright-internal.com/jobs/info/66c58b854031dddaece8f0e4?utm_campaign=Public Sector and Government&utm_source=1103)** | Oxnard, CA | Hybrid | Aug 20 |
+| **[Placement Partners](https://www.ppmninc.com)** | **[Quality Assurance Specialist](https://jobright-internal.com/jobs/info/66c81dcbe2b878472e3a61f6?utm_campaign=Public Sector and Government&utm_source=1103)** | Edina, MN | Hybrid | Aug 20 |
+| **[Service Access & Management](https://sam-inc.org)** | **[Program Support - Children & Youth Services](https://jobright-internal.com/jobs/info/66c9684d9322ce7b58f5cda6?utm_campaign=Public Sector and Government&utm_source=1103)** | Scranton, PA | On Site | Aug 20 |
+| **[Brookdale Senior Living](https://www.brookdale.com)** | **[Memory Care Program Assistant](https://jobright-internal.com/jobs/info/66c5865e91719efac4065659?utm_campaign=Public Sector and Government&utm_source=1103)** | Lubbock, TX | On Site | Aug 20 |
+| **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Minuteman III System Program Office Action Group Support](https://jobright-internal.com/jobs/info/66bff325f43c05867d8d873b?utm_campaign=Public Sector and Government&utm_source=1103)** | Hill Air Force Base, UT | Hybrid | Aug 20 |
+| **[Magellan Health Services](http://magellanhealth.com)** | **[Congressional Inquiries Analyst](https://jobright-internal.com/jobs/info/66c54be8020f2a42bd19e20e?utm_campaign=Public Sector and Government&utm_source=1103)** | Arlington, VA | On Site | Aug 20 |
+| **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c66b28e432e83472b3c33c?utm_campaign=Public Sector and Government&utm_source=1103)** | Oakland, CA | Hybrid | Aug 20 |
+| ↳ | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c5464ab8ec8eecf48176a2?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento County, CA | Hybrid | Aug 20 |
+| ↳ | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c66b28e432e83472b3c332?utm_campaign=Public Sector and Government&utm_source=1103)** | Oakland, CA | Hybrid | Aug 20 |
+| **[Providence St. Joseph Health](https://www.psjhealth.org/)** | **[Housing Assistant](https://jobright-internal.com/jobs/info/66c6760d5b8354e1af80034e?utm_campaign=Public Sector and Government&utm_source=1103)** | Eureka, CA | On Site | Aug 20 |
+| **[Nebraska Department of Transportation](https://dot.nebraska.gov)** | **[Developmental Disabilities Service Coordinator](https://jobright-internal.com/jobs/info/66c68c967bddeb9ed48e3a42?utm_campaign=Public Sector and Government&utm_source=1103)** | Lincoln, NE | On Site | Aug 20 |
+| **[Multicare Health System](http://www.multicare.org)** | **[Designated Crisis Responder](https://jobright-internal.com/jobs/info/66c5288e9f4da919a6e2d306?utm_campaign=Public Sector and Government&utm_source=1103)** | Puyallup, WA | On Site | Aug 20 |
+| **[Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Privacy Analyst](https://jobright-internal.com/jobs/info/66c5288e9f4da919a6e2d376?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 20 |
+| ↳ | **[Licensing Analyst](https://jobright-internal.com/jobs/info/66c5464ab8ec8eecf4817b60?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento, CA | On Site | Aug 20 |
+| **[Housing and Community Development](https://www.hcd.ca.gov/)** | **[Disaster Recovery Single-Family Housing Programs Specialist](https://jobright-internal.com/jobs/info/66c5246e93950544f36d8fdf?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 20 |
+| **[California Department of Insurance](https://www.insurance.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c5288e9f4da919a6e2d4db?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento, CA | On Site | Aug 20 |
+| **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[Health Services Policy Analyst](https://jobright-internal.com/jobs/info/66c50df1d473b0a65c12311d?utm_campaign=Public Sector and Government&utm_source=1103)** | Columbus, OH | Hybrid | Aug 20 |
+| **[The Salvation Army USA Eastern Territory](http://easternusa.salvationarmy.org)** | **[Program Coordinator](https://jobright-internal.com/jobs/info/66c51878d76449da38c44511?utm_campaign=Public Sector and Government&utm_source=1103)** | Lebanon, PA | On Site | Aug 20 |
+| **[Fors Marsh Group](https://www.forsmarsh.com/)** | **[Research Associate, Military Health & Wellbeing Research](https://jobright-internal.com/jobs/info/66c5095c5bec3e48f9c8c6f1?utm_campaign=Public Sector and Government&utm_source=1103)** | United States | Remote | Aug 20 |
+| **[The Leona M. and Harry B. Helmsley Charitable Trust](http://helmsleytrust.org/)** | **[Associate Program Officer, Type 1 Diabetes](https://jobright-internal.com/jobs/info/66c501b827456080615582dc?utm_campaign=Public Sector and Government&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 20 |
+| **[Florida Department of Children and Families](https://www.myflfamilies.com)** | **[Human Services Worker II OPS](https://jobright-internal.com/jobs/info/66c552be308e79c9bcc13d80?utm_campaign=Public Sector and Government&utm_source=1103)** | Macclenny, FL | On Site | Aug 20 |
+| **[University of Illinois Chicago](https://uic.edu)** | **[Grants and Contracts Associate (Pre-Award)](https://jobright-internal.com/jobs/info/66c4e4804ce35c2d4e49cb3e?utm_campaign=Public Sector and Government&utm_source=1103)** | Chicago, IL | Hybrid | Aug 20 |
+| **[California State University San Marcos](https://csusm.edu)** | **[Crisis Response Specialist](https://jobright-internal.com/jobs/info/66c4ec56c779ae43531f353d?utm_campaign=Public Sector and Government&utm_source=1103)** | San Marcos, CA | On Site | Aug 20 |
+| **[Northern Kentucky Area Development District](http://www.nkadd.org/)** | **[Kentucky Caregiver Program Coordinator](https://jobright-internal.com/jobs/info/66c4df8723ce62534bc50ee0?utm_campaign=Public Sector and Government&utm_source=1103)** | Florence, KY | On Site | Aug 20 |
+| **[Allied Universal](http://www.aus.com)** | **[Security Daytime Government Building Officer](https://jobright-internal.com/jobs/info/66c5de139aec8a2790ee639a?utm_campaign=Public Sector and Government&utm_source=1103)** | Raleigh, NC | On Site | Aug 20 |
+| **[Arnold Ventures](https://www.arnoldventures.org/)** | **[Evidence and Evaluation Analyst](https://jobright-internal.com/jobs/info/66c4f9149b2d3435004742a8?utm_campaign=Public Sector and Government&utm_source=1103)** | New York, NY | Hybrid | Aug 20 |
+| **[Ohio Department of Agriculture](http://www.agri.ohio.gov)** | **[Agriculture Administrative Services Coordinator](https://jobright-internal.com/jobs/info/66c4d2f375c1a2aa8b182c11?utm_campaign=Public Sector and Government&utm_source=1103)** | Reynoldsburg, OH | On Site | Aug 20 |
+| **[Computer Aid, Inc.](http://www.compaid.com)** | **[Social Caseworker Specialist](https://jobright-internal.com/jobs/info/66c4c15e3420a4932749d177?utm_campaign=Public Sector and Government&utm_source=1103)** | Newark, DE | On Site | Aug 20 |
+| **[Human Nutrition Research Center](http://hnrca.tufts.edu)** | **[Pre-Award Research Administrator I](https://jobright-internal.com/jobs/info/66c4368e79bd637efd604845?utm_campaign=Public Sector and Government&utm_source=1103)** | Boston, MA | On Site | Aug 20 |
+| **[Vinfen](http://www.vinfen.org)** | **[Outreach Worker (Mental Health Services)](https://jobright-internal.com/jobs/info/66c4928c1319a8853e1d5d18?utm_campaign=Public Sector and Government&utm_source=1103)** | Lowell, MA | On Site | Aug 20 |
+| **[Citizant](https://citizant.com)** | **[Government Badging & Credentialing Specialist](https://jobright-internal.com/jobs/info/66cb1c1a606a95425103496e?utm_campaign=Public Sector and Government&utm_source=1103)** | El Paso, TX | On Site | Aug 20 |
+| **[Common Sense Media](http://graphite.org/)** | **[Advocacy Project Coordinator](https://jobright-internal.com/jobs/info/668ce077dd30cc550de03325?utm_campaign=Public Sector and Government&utm_source=1103)** | Washington, DC | Hybrid | Aug 20 |
+| **[The Pew Charitable Trusts](http://www.pewtrusts.org/en)** | **[Associate I, Policy, Research & Analysis](https://jobright-internal.com/jobs/info/66a8208b1e7438f0feef9bd8?utm_campaign=Public Sector and Government&utm_source=1103)** | Washington, DC | Hybrid | Aug 20 |
+| **[HCA](http://hcahealthcare.com)** | **[Medicaid Eligibility Advocate](https://jobright-internal.com/jobs/info/66c449d3e85bff11f836dbae?utm_campaign=Public Sector and Government&utm_source=1103)** | Riverside, CA | On Site | Aug 20 |
+| **[University of Washington](http://www.washington.edu)** | **[Research Coordinator](https://jobright-internal.com/jobs/info/66c45000010b73d9b3152ba6?utm_campaign=Public Sector and Government&utm_source=1103)** | Seattle, WA | Hybrid | Aug 19 |
+| ↳ | **[Research Coordinator](https://jobright-internal.com/jobs/info/66c45000010b73d9b3152ba1?utm_campaign=Public Sector and Government&utm_source=1103)** | Seattle, WA | On Site | Aug 19 |
+| ↳ | **[Research Coordinator](https://jobright-internal.com/jobs/info/66c45000010b73d9b3153110?utm_campaign=Public Sector and Government&utm_source=1103)** | Seattle, WA | On Site | Aug 19 |
+| **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c6dadbe5541ac03efa2b51?utm_campaign=Public Sector and Government&utm_source=1103)** | Sacramento County, CA | On Site | Aug 19 |
+| **[University of Washington](http://www.washington.edu)** | **[Research Coordinator](https://jobright-internal.com/jobs/info/66c44153ebfe175a48b3ab62?utm_campaign=Public Sector and Government&utm_source=1103)** | Seattle, WA | On Site | Aug 19 |
+| ↳ | **[Research Coordinator](https://jobright-internal.com/jobs/info/66c4556ed009675dec3e7878?utm_campaign=Public Sector and Government&utm_source=1103)** | Seattle, WA | On Site | Aug 19 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[Support Coordinator Social Case Worker - Child Welfare](https://jobright-internal.com/jobs/info/66ba9442d6d1c383649da096?utm_campaign=Public Sector and Government&utm_source=1103)** | Denver Metropolitan Area | Hybrid | Aug 19 |
+| **[Catholic Community Services](https://www.ccsutah.org)** | **[Refugee Health Advocate](https://jobright-internal.com/jobs/info/66c9684d9322ce7b58f5ce3a?utm_campaign=Public Sector and Government&utm_source=1103)** | Salt Lake City, UT | On Site | Aug 19 |
+| **[NUWAY](https://www.nuway.org)** | **[Recovery Housing Advocate](https://jobright-internal.com/jobs/info/66c41e5a0758981ae2ac8d24?utm_campaign=Public Sector and Government&utm_source=1103)** | St Paul, MN | On Site | Aug 19 |
+| **[The Salvation Army USA Eastern Territory](http://easternusa.salvationarmy.org)** | **[Community Development Representative](https://jobright-internal.com/jobs/info/66c417a212bfc2fe03b9a44e?utm_campaign=Public Sector and Government&utm_source=1103)** | Lexington, KY | On Site | Aug 19 |
+| **[Heluna Health](https://www.helunahealth.org/)** | **[Staff Assistant I - Interim Housing Program](https://jobright-internal.com/jobs/info/66c41238b8c1c7efd964f70a?utm_campaign=Public Sector and Government&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 19 |
+| **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[Soc/Clin Research Assistant - Journey](https://jobright-internal.com/jobs/info/66c4ec56c779ae43531f35a7?utm_campaign=Public Sector and Government&utm_source=1103)** | Chapel Hill, NC | Hybrid | Aug 19 |
+| **[The Salvation Army](https://www.salvationarmyusa.org)** | **[Community Development Representative](https://jobright-internal.com/jobs/info/66c3f85752103aef76ed6b4c?utm_campaign=Public Sector and Government&utm_source=1103)** | Lexington, KY | On Site | Aug 19 |
+| **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright-internal.com/jobs/info/66c511ef24518864fe2796e3?utm_campaign=Public Sector and Government&utm_source=1103)** | Oakland, CA | Hybrid | Aug 19 |
+| **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Social Services Designee](https://jobright-internal.com/jobs/info/66c3f559bd245572b75adb9c?utm_campaign=Public Sector and Government&utm_source=1103)** | Cincinnati, OH | On Site | Aug 19 |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Intelligence Program Administrative Specialist](https://jobright-internal.com/jobs/info/66c3e043edd00d129aa0750f?utm_campaign=Public Sector and Government&utm_source=1103)** | Livermore, CA | Hybrid | Aug 19 |
+<!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
