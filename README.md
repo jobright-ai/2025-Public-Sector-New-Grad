@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Montgomery County Government](http://www.montgomerycountymd.gov)** | **[Human Services Specialist, N23](https://jobright.ai/jobs/info/686e0e22e1a3bf00a3809e1c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Germantown, MD | On Site | Jul 10 |
 | **[Root Inc.](https://www.root.com)** | **[Analyst II, Policyholder Experience](https://jobright.ai/jobs/info/6870930adb3f6a2570e3fe0c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Remote - US | Remote | Jul 10 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Bi-lingual Correctional Re-Entry Service Specialist– Community Corrections](https://jobright.ai/jobs/info/6870787601cc0956e7e82140?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver, CO | On Site | Jul 10 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Research Program Coordinator - 118406](https://jobright.ai/jobs/info/68706e0001cc0956e7e81d58?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | Hybrid | Jul 10 |
