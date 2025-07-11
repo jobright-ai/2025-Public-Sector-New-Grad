@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City and County of Denver](https://www.denvergov.org)** | **[Bi-lingual Correctional Re-Entry Service Specialist– Community Corrections](https://jobright.ai/jobs/info/6870787601cc0956e7e82140?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver, CO | On Site | Jul 10 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Research Program Coordinator - 118406](https://jobright.ai/jobs/info/68706e0001cc0956e7e81d58?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | Hybrid | Jul 10 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Healthy Families, Family Support Specialist (Page County)](https://jobright.ai/jobs/info/687067d3a5ae807a59cf8194?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Harrisonburg, VA | On Site | Jul 10 |
 | **[Children's Law Center of California](https://www.clccal.org/)** | **[PEER ADVOCATE](https://jobright.ai/jobs/info/687061214ec78aa84e9b797e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | SAC | Hybrid | Jul 10 |
