@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community First Solutions](http://www.community-first.org)** | **[Community Resource Assistant](https://jobright.ai/jobs/info/687197aa06ad7073463c622c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Hamilton, OH | On Site | Jul 11 |
 | **[Cancer Research Institute (CRI)](http://cancerresearch.org/)** | **[Research Programs Coordinator](https://jobright.ai/jobs/info/68716ca406ad7073463c5044?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | NYC Metro Area | Hybrid | Jul 11 |
 | **[Federal Bureau of Investigation (FBI)](http://www.fbi.gov)** | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/68715f8b06ad7073463c4bf2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, United States | On Site | Jul 11 |
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/68715f3206ad7073463c4bd2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Triangle Area | On Site | Jul 11 |
