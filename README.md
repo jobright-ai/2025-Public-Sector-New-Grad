@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UHS](https://uhs.com)** | **[COLLECTOR - GOVERNMENT- Government Department (Billing)](https://jobright.ai/jobs/info/6872febd3574938b78c15dc2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 12 |
+| ↳ | **[COLLECTOR - GOVERNMENT - Government Department (Billing)](https://jobright.ai/jobs/info/6872febd3574938b78c15dce?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 12 |
 | **[Galloway & Company, Inc.](https://gallowayus.com)** | **[Permitting Coordinator](https://jobright.ai/jobs/info/68557c03896a799dd595622f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Wichita, KS | Hybrid | Jul 12 |
 | **[Cancer Research Institute (CRI)](http://cancerresearch.org/)** | **[Research Programs Coordinator](https://jobright.ai/jobs/info/6872160306ad7073463cb368?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Jul 11 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[DEPUTY PUBLIC DEFENDER I-EMERGENCY APPOINTMENT/HOMELESS INITIATIVE](https://jobright.ai/jobs/info/6872186b06ad7073463cb4ee?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | On Site | Jul 11 |
