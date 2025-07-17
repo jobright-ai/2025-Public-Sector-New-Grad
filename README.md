@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maximus](http://www.maximus.com/)** | **[Intellectual and Developmental Disabilities Assessor - (Hybrid Remote - Maine)](https://jobright.ai/jobs/info/68666c3717581bdfaa493e02?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Augusta, ME | Hybrid | Jul 16 |
+| **[McAllister & Quinn](https://www.jm-aq.com)** | **[Research Analyst, Federal Affairs](https://jobright.ai/jobs/info/687844b75cebcd1dd51d8cce?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Jul 16 |
 | **[WelbeHealth](http://welbehealth.com/)** | **[Social Worker - MSW](https://jobright.ai/jobs/info/687812ea5cebcd1dd51d7857?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | North Hollywood, CA, USA | On Site | Jul 16 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Pre/Post Award Specialist at NC State](https://jobright.ai/jobs/info/68780ac25cebcd1dd51d73f9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Raleigh, NC | On Site | Jul 16 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Government Property Administrator](https://jobright.ai/jobs/info/687807115cebcd1dd51d71dd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Poway, CA | Hybrid | Jul 16 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/687159fb06ad7073463c4a04?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greater Sacramento | On Site | Jul 11 |
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/687159bba5ae807a59cff19f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greater Phoenix Area | On Site | Jul 11 |
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/6873d3b04001e95011b1a68f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Austin, Texas Metropolitan Area | On Site | Jul 11 |
-| ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/6871eeb9a5ae807a59d038c5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Twin Cities Area | On Site | Jul 11 |
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/6871f13106ad7073463c9384?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Antonio, Texas Metropolitan Area | On Site | Jul 11 |
+| ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/6871eeb9a5ae807a59d038c5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Twin Cities Area | On Site | Jul 11 |
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/687157b6a5ae807a59cff0ee?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | DC-Baltimore Area | On Site | Jul 11 |
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/6871f143a5ae807a59d03a41?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greater Orlando | On Site | Jul 11 |
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/6873d4a54001e95011b1a74b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greater Tampa Bay Area | On Site | Jul 11 |
@@ -139,7 +141,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/6874f0d8ae2f413e4a5a1f72?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | SLC Metro Area | On Site | Jul 11 |
 | ↳ | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/6873a83c4001e95011b1891a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greater Houston | On Site | Jul 11 |
 | **[Citizant](https://citizant.com)** | **[HSPD-12: Government Badging & Credentialing Specialist (Tampa, FL - REF1832M)](https://jobright.ai/jobs/info/68761cc9ae2f413e4a5ad047?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa, FL | On Site | Jul 11 |
-| **[Maximus](http://www.maximus.com/)** | **[Intellectual and Developmental Disabilities Assessor - (Hybrid Remote - Maine)](https://jobright.ai/jobs/info/68666c3717581bdfaa493e02?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Augusta, ME | Hybrid | Jul 11 |
 | **[SEI ](https://www.seiinc.org)** | **[Energy Advisor Volunteer Coordinator](https://jobright.ai/jobs/info/6874ca63ae2f413e4a5a04a4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bellevue, WA | Hybrid | Jul 11 |
 | **[Montgomery County Government](http://www.montgomerycountymd.gov)** | **[Human Services Specialist, N23](https://jobright.ai/jobs/info/686e0e22e1a3bf00a3809e1c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Germantown, MD | On Site | Jul 10 |
 | **[Advocates](https://www.advocates.org)** | **[Direct Support Staff - Developmental Services / Relief - Boston Programs](https://jobright.ai/jobs/info/6874b310ae2f413e4a59f50c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Jul 10 |
