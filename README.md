@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQVIA](https://www.iqvia.com)** | **[Site Research Assistant - Kenosha, WI](https://jobright.ai/jobs/info/687a6c912097a271a897ecd9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kenosha, WI | On Site | Jul 18 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Community Health Worker](https://jobright.ai/jobs/info/6879d74d2097a271a897ad9e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Annapolis, MD | On Site | Jul 17 |
 | ↳ | **[Social Worker II](https://jobright.ai/jobs/info/6879d733ed63844c9449ecf6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Annapolis, MD | On Site | Jul 17 |
 | ↳ | **[Social Worker I](https://jobright.ai/jobs/info/6879d671ed63844c9449ec8c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lanham, MD | On Site | Jul 17 |
@@ -127,11 +128,10 @@ For a complete list, click the following sortable link below:
 | **[Horizon](https://www.horizontherapeutics.com)** | **[2026 Horizon Fellowship](https://jobright.ai/jobs/info/68751458299cbc74b8751c99?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | DC | On Site | Jul 13 |
 | **[MNS Engineers, Inc.](http://mnsengineers.com)** | **[Assistant Planner](https://jobright.ai/jobs/info/68735b7406ad7073463cf6df?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Riverside, CA | On Site | Jul 13 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Assistant Zoological Park Maintainer, Security, NYA](https://jobright.ai/jobs/info/68734e9a06ad7073463cefbb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Jul 12 |
-| **[UHS](https://uhs.com)** | **[COLLECTOR - GOVERNMENT- Government Department (Billing)](https://jobright.ai/jobs/info/6872febd3574938b78c15dc2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 12 |
+| **[UHS](https://uhs.com)** | **[COLLECTOR - GOVERNMENT- Government Department (Billing)](https://jobright.ai/jobs/info/6872febd3574938b78c15db8?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 12 |
 | ↳ | **[COLLECTOR - GOVERNMENT - Government Department (Billing)](https://jobright.ai/jobs/info/6872febd3574938b78c15dce?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 12 |
 | **[Cancer Research Institute (CRI)](http://cancerresearch.org/)** | **[Research Programs Coordinator](https://jobright.ai/jobs/info/6872160306ad7073463cb368?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Jul 11 |
 | **[UHS](https://uhs.com)** | **[MGR - BILLING - Medicare](https://jobright.ai/jobs/info/6871b035a96c881fdf355b68?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 11 |
 | **[CORE (Community Organized Relief Effort)](https://www.coreresponse.org/)** | **[Community Health Worker - Cantonese or Mandarin Fluency Required](https://jobright.ai/jobs/info/685f1d213f94751acf084423?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, California | Hybrid | Jul 11 |
 | **[Ohio Department of Mental Health & Addiction Services](https://mha.ohio.gov)** | **[Mental Health Administrator 5 - 20035983](https://jobright.ai/jobs/info/687397d94001e95011b17aeb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Columbus, OH | On Site | Jul 11 |
-| **[Duly Health and Care](https://www.dulyhealthandcare.com)** | **[Behavioral Health Program Coordinator](https://jobright.ai/jobs/info/6874f21dae2f413e4a5a2029?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Romeoville, IL | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
