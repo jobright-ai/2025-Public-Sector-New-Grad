@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[ADULT PROTECTIVE SERVICES INVESTIGATOR DEVELOPMENTAL DISABILITIES FOCUS](https://jobright.ai/jobs/info/687bf762764c3d7411c36276?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Phoenix, AZ | On Site | Jul 19 |
+| **[Citizant](https://citizant.com)** | **[HSPD-12: Government Badging & Credentialing Specialist (Tampa, FL - REF1823K)**](https://jobright.ai/jobs/info/687be3dd2097a271a8987cbc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa, FL | On Site | Jul 19 |
 | **[Eliot Community Human Services](https://www.eliotchs.org)** | **[Engagement Counselor - Homeless Services](https://jobright.ai/jobs/info/6856a46dae0608f715a8a12c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Quincy | On Site | Jul 19 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Government Location - Full Time](https://jobright.ai/jobs/info/687b90e12097a271a89857c4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bushnell, FL | On Site | Jul 18 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Crop Administrative Operations Representative](https://jobright.ai/jobs/info/687bab2b2097a271a89866d2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Peoria, IL | On Site | Jul 18 |
