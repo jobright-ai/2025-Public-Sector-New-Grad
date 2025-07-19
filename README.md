@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TURNDreams](https://www.turncommunityservices.org)** | **[Oasis Day Program Assistant](https://jobright.ai/jobs/info/687bfa712097a271a89880ca?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Springville, UT | On Site | Jul 19 |
 | **[Arizona Department of Economic Security](https://des.az.gov)** | **[ADULT PROTECTIVE SERVICES INVESTIGATOR DEVELOPMENTAL DISABILITIES FOCUS](https://jobright.ai/jobs/info/687bf762764c3d7411c36276?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Phoenix, AZ | On Site | Jul 19 |
 | **[Citizant](https://citizant.com)** | **[HSPD-12: Government Badging & Credentialing Specialist (Tampa, FL - REF1823K)**](https://jobright.ai/jobs/info/687be3dd2097a271a8987cbc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa, FL | On Site | Jul 19 |
 | **[Eliot Community Human Services](https://www.eliotchs.org)** | **[Engagement Counselor - Homeless Services](https://jobright.ai/jobs/info/6856a46dae0608f715a8a12c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Quincy | On Site | Jul 19 |
@@ -145,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[HUD Underwriting Analyst](https://jobright.ai/jobs/info/6874493027d5e6163cae754e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Erie-Meadville Area | Hybrid | Jul 13 |
 | **[Horizon](https://www.horizontherapeutics.com)** | **[2026 Horizon Fellowship](https://jobright.ai/jobs/info/68751458299cbc74b8751c99?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | DC | On Site | Jul 13 |
 | **[MNS Engineers, Inc.](http://mnsengineers.com)** | **[Assistant Planner](https://jobright.ai/jobs/info/68735b7406ad7073463cf6df?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Riverside, CA | On Site | Jul 13 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Assistant Zoological Park Maintainer, Security, NYA](https://jobright.ai/jobs/info/68734e9a06ad7073463cefbb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
