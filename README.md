@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Government Location - Full Time](https://jobright.ai/jobs/info/687b90e12097a271a89857c4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bushnell, FL | On Site | Jul 18 |
 | **[Georgetown University](http://www.georgetown.edu)** | **[Research Assistant - Kennedy Institute of Ethics](https://jobright.ai/jobs/info/687b40dbed63844c944a70a5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | Hybrid | Jul 18 |
 | **[California Public Utilities Commission](https://www.cpuc.ca.gov)** | **[Energy Policy Analyst](https://jobright.ai/jobs/info/687b4b0e764c3d7411c31d52?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | Hybrid | Jul 18 |
 | **[Grassroots Team](https://grassrootsteam.com/)** | **[Canvasser for The Environment](https://jobright.ai/jobs/info/687b3f062097a271a8982d39?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Jul 18 |
@@ -139,6 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Horizon](https://www.horizontherapeutics.com)** | **[2026 Horizon Fellowship](https://jobright.ai/jobs/info/68751458299cbc74b8751c99?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | DC | On Site | Jul 13 |
 | **[MNS Engineers, Inc.](http://mnsengineers.com)** | **[Assistant Planner](https://jobright.ai/jobs/info/68735b7406ad7073463cf6df?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Riverside, CA | On Site | Jul 13 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Assistant Zoological Park Maintainer, Security, NYA](https://jobright.ai/jobs/info/68734e9a06ad7073463cefbb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Jul 12 |
-| **[UHS](https://uhs.com)** | **[COLLECTOR - GOVERNMENT- Government Department (Billing)](https://jobright.ai/jobs/info/6872febd3574938b78c15dc2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 12 |
-| ↳ | **[COLLECTOR - GOVERNMENT - Government Department (Billing)](https://jobright.ai/jobs/info/6872febd3574938b78c15dce?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 12 |
+| **[UHS](https://uhs.com)** | **[COLLECTOR - GOVERNMENT - Government Department (Billing)](https://jobright.ai/jobs/info/6872febd3574938b78c15dce?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 12 |
+| ↳ | **[COLLECTOR - GOVERNMENT- Government Department (Billing)](https://jobright.ai/jobs/info/6872febd3574938b78c15dc2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | LAS VEGAS, Nevada | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
