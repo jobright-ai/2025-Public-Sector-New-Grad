@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Public Utilities Commission](https://www.cpuc.ca.gov)** | **[Associate Governmental Program Analyst](https://jobright.ai/jobs/info/687ee70e764c3d7411c472a7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 21 |
+| **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Government EMT Patrol](https://jobright.ai/jobs/info/687ee6352097a271a8998c06?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Menlo Park, CA | On Site | Jul 21 |
+| **[California Department of Tax and Fee Administration](https://www.cdtfa.ca.gov/)** | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST](https://jobright.ai/jobs/info/687edd83764c3d7411c46cb6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Jul 21 |
+| **[Kearney & Company](http://www.kearneyco.com)** | **[Kearney Technology Group Analyst - College Program](https://jobright.ai/jobs/info/687edbd5db19f31cf0d6d902?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Alexandria, VA | Hybrid | Jul 21 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[RESA II - Energy Policy Analyst](https://jobright.ai/jobs/info/687ec648db19f31cf0d6d017?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | PICKLE RESEARCH CAMPUS | On Site | Jul 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Consultant - Government Services](https://jobright.ai/jobs/info/687ebdb8db19f31cf0d6cb4e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Melbourne, FL | On Site | Jul 21 |
 | **[Health Access California](https://health-access.org/)** | **[Program Associate - Hybrid, Southern CA based](https://jobright.ai/jobs/info/687eba122097a271a899767e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 21 |
