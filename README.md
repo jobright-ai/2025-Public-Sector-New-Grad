@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Universal](https://www.aus.com/)** | **[Security Professional – Government Patrols](https://jobright.ai/jobs/info/687f4e012097a271a899c814?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Reno, NV | On Site | Jul 22 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Armed Government Site - Full Time](https://jobright.ai/jobs/info/687f2df6764c3d7411c4a016?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bushnell, FL | On Site | Jul 21 |
 | **[The Associated Press](http://www.ap.org)** | **[Elections Research Products Editor (Newsperson)](https://jobright.ai/jobs/info/687ef3a6764c3d7411c477fd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Jul 21 |
 | **[California Department of Public Health](http://www.cdph.ca.gov)** | **[HEALTH PROGRAM SPECIALIST I JC-485504](https://jobright.ai/jobs/info/687ef339764c3d7411c477d0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | Hybrid | Jul 21 |
@@ -162,5 +163,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST JC-484726](https://jobright.ai/jobs/info/6876caa5299cbc74b8760af9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | Hybrid | Jul 15 |
 | **[WelbeHealth](http://welbehealth.com/)** | **[Social Work Manager - MSW](https://jobright.ai/jobs/info/6876ac78299cbc74b875f6a0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Jose, CA, USA | Hybrid | Jul 15 |
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Associate Governmental Program Analyst (AGPA) – Southern Region Hand Crew Program](https://jobright.ai/jobs/info/6876cde6ae2f413e4a5b3d97?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Riverside County, CA | On Site | Jul 15 |
-| **[Solugen](https://solugen.com)** | **[Government Capture Associate/Manager](https://jobright.ai/jobs/info/687697265cebcd1dd51ca483?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Houston, TX | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
