@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Forestry Assistant II - Vegetation Management Programp (VMP)](https://jobright.ai/jobs/info/6881882116ea5743a3739d04?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Napa, CA | On Site | Jul 23 |
+| **[Stars Behavioral Health Group](http://starsinc.com)** | **[Transition Facilitator](https://jobright.ai/jobs/info/68818579f4f06100f3a279d2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Leandro, CA | On Site | Jul 23 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Program Support Specialist](https://jobright.ai/jobs/info/688179b416ea5743a3739595?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chantilly, VA | On Site | Jul 23 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Field Canvasser](https://jobright.ai/jobs/info/6881724df4f06100f3a27038?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ridgefield, CT | On Site | Jul 23 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Unarmed Government](https://jobright.ai/jobs/info/68816fa729ad6b2744ae223d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Raleigh, NC | On Site | Jul 23 |
