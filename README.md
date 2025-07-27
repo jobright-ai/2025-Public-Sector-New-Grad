@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Armed Government Center - Full Time](https://jobright.ai/jobs/info/688584ceb651c92cb78abe90?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Reno, NV | On Site | Jul 26 |
+| **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[LAND AGENT I - HILO, HAWAII ISLAND](https://jobright.ai/jobs/info/68857eb8b651c92cb78abd3d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Hawaii County, HI | On Site | Jul 26 |
+| ↳ | **[LAND AGENT I AND II - OAHU](https://jobright.ai/jobs/info/68857628fbbf032d0006c8e1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Honolulu County, HI | On Site | Jul 26 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Administrative Programs Officer I](https://jobright.ai/jobs/info/688566ac4174df41e0f9696c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | Jul 26 |
 | ↳ | **[Public Information Officer](https://jobright.ai/jobs/info/688558814174df41e0f96878?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | Jul 26 |
 | ↳ | **[Administrative Programs Officer II](https://jobright.ai/jobs/info/68855605b651c92cb78ab961?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | Jul 26 |
@@ -273,5 +276,4 @@ For a complete list, click the following sortable link below:
 | **[University of Florida](https://www.ufl.edu)** | **[OPS Research specialist](https://jobright.ai/jobs/info/687eb986db19f31cf0d6c9e2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Metro Jacksonville | On Site | Jul 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Right-of-Way Acquisition Agent](https://jobright.ai/jobs/info/67b58ff3be5e4d4ef57a021a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver, CO | On Site | Jul 20 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Resource and Discharge Planner](https://jobright.ai/jobs/info/681d13a5bb74c289e81e5673?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Oak Brook, Illinois, United States | On Site | Jul 20 |
-| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[HUD Underwriting Analyst](https://jobright.ai/jobs/info/685ee4de2fea5b705839a977?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Erie-Meadville Area | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
