@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saber Healthcare Group](https://www.saberhealth.com)** | **[MDS RN](https://jobright.ai/jobs/info/6887f6c5fbbf032d00077d7a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | London, OH | On Site | Jul 28 |
+| **[NYSDOCCS Recruitment](doccs.ny.gov)** | **[Correction Officer](https://jobright.ai/jobs/info/6887f5f54174df41e0fa1f3a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, United States | On Site | Jul 28 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Associate, Government Relations](https://jobright.ai/jobs/info/6887ee244174df41e0fa1b94?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington DC | Hybrid | Jul 28 |
 | **[The Associated Press](http://www.ap.org)** | **[Elections Research Products Editor (Newsperson)](https://jobright.ai/jobs/info/687ef3a6764c3d7411c477fd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Jul 28 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Government Facility - Full Time](https://jobright.ai/jobs/info/6887e5b1fbbf032d000774e7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Upper Darby, PA | On Site | Jul 28 |
