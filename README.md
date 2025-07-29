@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanford Department of Medicine](https://medicine.stanford.edu)** | **[Research Administrator 1](https://jobright.ai/jobs/info/6888eb37aab47a17f66fd89d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Stanford, CA | Hybrid | Jul 29 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[WILDLIFE MANAGER 1 - 07292025- AUDIT](https://jobright.ai/jobs/info/6888e97e09808a6103e4361c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Campbell County, TN | On Site | Jul 29 |
 | **[Droste Mental Health Services, Inc](https://www.drostemhservices.org)** | **[Associate Board Member](https://jobright.ai/jobs/info/6888ce1baab47a17f66fd008?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | Hybrid | Jul 29 |
 | **[Saber Healthcare Group](https://www.saberhealth.com)** | **[Life Enrichment Aide](https://jobright.ai/jobs/info/688895e8aab47a17f66fc538?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Locust Hill, VA | Hybrid | Jul 29 |
 | **[Central Missouri Community Action](https://cmca.us/)** | **[Program Coordinator for the Housing Choice Voucher Program](https://jobright.ai/jobs/info/688871b1c2947d673c175fda?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Columbia,MO,US | On Site | Jul 29 |
@@ -253,7 +255,4 @@ For a complete list, click the following sortable link below:
 | **[The Road Home](https://theroadhome.org/)** | **[Housing Advocate](https://jobright.ai/jobs/info/6881afb2f4f06100f3a29117?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Salt Lake City, UT | On Site | Jul 22 |
 | **[Compassion International](http://www.compassion.com/)** | **[Business Intelligence Analyst Fellow](https://jobright.ai/jobs/info/6880597c2097a271a89a342f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Remote - USA | Remote | Jul 22 |
 | **[Sevita](https://sevitahealth.com)** | **[Direct Care Program Supervisor](https://jobright.ai/jobs/info/6881d120ee15177ae9717817?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Williamstown, WV | On Site | Jul 22 |
-| **[Kansas Office of Judicial Administration](https://www.kscourts.org/)** | **[Secretary I - 3rd Judicial District](https://jobright.ai/jobs/info/68805e319f7280424570a035?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Topeka, KS | On Site | Jul 22 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Vermont SIS Assessor](https://jobright.ai/jobs/info/688050af9f7280424570944f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chittenden County, VT | Remote | Jul 22 |
-| **[Kansas Office of Judicial Administration](https://www.kscourts.org/)** | **[Secretary I - 3rd Judicial District](https://jobright.ai/jobs/info/688086fb764c3d7411c541f6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Topeka, KS | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
