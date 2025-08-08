@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Farm Bureau Insurance of Michigan](https://www.farmbureauinsurance-mi.com/)** | **[County Administrative Coordinator II (Bay)](https://jobright.ai/jobs/info/6896149273b3a600fe88c8cd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bay City, MI | On Site | Aug 08 |
 | **[Catholic Charities of the Archdiocese of New York](http://catholiccharitiesny.org/)** | **[Outreach Coordinator](https://jobright.ai/jobs/info/6895f8e41b9e81727f18d1e7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bronx, NY | On Site | Aug 08 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Emergency Eviction Legal Services Navigator](https://jobright.ai/jobs/info/6895f63073b3a600fe88ba4e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tucson, AZ | On Site | Aug 08 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Institutional Research Analyst (Administrative Analyst/Specialist I)](https://jobright.ai/jobs/info/6895b6754ed2ea559ca59115?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Diego, CA | Hybrid | Aug 08 |
@@ -274,6 +275,4 @@ For a complete list, click the following sortable link below:
 | **[MidPen Housing Corporation](http://www.midpen-housing.org)** | **[Floating Services Coordinator I](https://jobright.ai/jobs/info/688d95166a4aac5783cd42eb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Gatos, California | On Site | Aug 01 |
 | **[Camden County Board of Commissioners, Georgia](http://www.camdencountyga.gov/)** | **[Jailor](https://jobright.ai/jobs/info/688d70b33a30793eb964ae95?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Woodbine, GA | On Site | Aug 01 |
 | **[Klamath County](https://www.klamathcounty.org)** | **[Public Health Program Coordinator](https://jobright.ai/jobs/info/688d63853a30793eb964a8fe?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Klamath Falls, OR | On Site | Aug 01 |
-| **[Luminis Health](http://www.luminishealth.org)** | **[Social Worker II - PRN - DCMC](https://jobright.ai/jobs/info/6879d5252097a271a897ac80?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lanham, MD | On Site | Aug 01 |
-| **[Frasco](http://frasco.com)** | **[Social Media Background Investigator](https://jobright.ai/jobs/info/688d59553a30793eb964a5a4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Atlanta, GA | Remote | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
