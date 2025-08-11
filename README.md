@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Universal](https://www.aus.com/)** | **[Armed Security Professional - Government Site](https://jobright.ai/jobs/info/6899e4a7faa4e875e8254878?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New Port Richey, FL | On Site | Aug 11 |
 | **[Frasco](http://frasco.com)** | **[Social Media Background Investigator](https://jobright.ai/jobs/info/6899dc2ffaa4e875e8254448?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Atlanta, GA | Remote | Aug 11 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[BDS Research Analyst](https://jobright.ai/jobs/info/68975d451b9e81727f19924d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA | Remote | Aug 11 |
 | **[Sarasota County Sheriff's Office](www.SarasotaSheriff.org)** | **[CIS Secretary](https://jobright.ai/jobs/info/6899b64283d13d1f5b694240?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sarasota, FL | On Site | Aug 10 |
@@ -261,9 +262,4 @@ For a complete list, click the following sortable link below:
 | **[National Park Foundation](http://www.nationalparks.org)** | **[Government Relations Coordinator (1 Yr. Term)](https://jobright.ai/jobs/info/689238434c7e851b90ad3f47?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Aug 04 |
 | **[State of Florida](http://www.myflorida.com)** | **[GOVERNMENT OPERATIONS CONS. I - 37001073](https://jobright.ai/jobs/info/6892abf84c7e851b90ad77de?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tallahassee, FL | On Site | Aug 04 |
 | **[State of Arizona](https://az.gov/)** | **[ENVIRONMENTAL ASSESSMENT PROGRAMS MANAGER](https://jobright.ai/jobs/info/689148caf5ee707a15dbd805?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Phoenix, AZ | On Site | Aug 04 |
-| **[Florida Chapter of the American Planning Association (APA Florida)](https://florida.planning.org/)** | **[GIS Addressing Coordinator](https://jobright.ai/jobs/info/689138884c7e851b90accf4d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Delray Beach, FL | On Site | Aug 04 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Assistant Zoological Park Maintainer, Security, NYA](https://jobright.ai/jobs/info/68858e4cb651c92cb78ac11c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Aug 04 |
-| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Program Assistant, European Energy Security, Global Energy Center](https://jobright.ai/jobs/info/68912a1af47efe2113953578?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Aug 04 |
-| **[Sevita](https://sevitahealth.com)** | **[Day Program Assistant](https://jobright.ai/jobs/info/68912005f5ee707a15dbc4f9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Marlborough, MA | On Site | Aug 04 |
-| **[Alaska Fellows Program](http://www.alaskafellows.org)** | **[Alaska Fellows Program - Alaska Venture Fund Climate and Energy Transition Fellow](https://jobright.ai/jobs/info/68911e034c7e851b90acc397?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Alaska, United States | Hybrid | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
