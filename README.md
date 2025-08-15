@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citizens for Free Enterprise](https://citizensforfreeenterprise.com/)** | **[Grassroots Engagement Director](https://jobright.ai/jobs/info/689f6b2179a9f96662556b90?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Omaha, NE | On Site | Aug 15 |
+| **[The Women's Community, Inc.](http://womenscommunity.org/)** | **[Domestic Abuse Program Shelter Advocate](https://jobright.ai/jobs/info/689f6268faa4e875e8286570?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Wausau, WI | On Site | Aug 15 |
+| **[Zócalo Health](https://www.zocalo.health/)** | **[Community Health Worker (Victorville, CA)](https://jobright.ai/jobs/info/688ced6f1808534a89cbfac2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Victorville, CA | On Site | Aug 15 |
 | **[Eliot Community Human Services](https://www.eliotchs.org)** | **[Peer Engagement Specialist - Homeless Services](https://jobright.ai/jobs/info/689f452383d13d1f5b6c5409?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston | On Site | Aug 15 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/689f3b15faa4e875e82851c9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Aug 15 |
 | ↳ | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/689f3b0179a9f966625553bd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Aug 15 |
