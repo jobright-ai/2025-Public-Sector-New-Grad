@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Armed Government Establishment - Full Time](https://jobright.ai/jobs/info/68a1dac3cc9ee94dc9123f8b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Laurinburg, NC | On Site | Aug 17 |
+| **[LawBhoomi](https://lawbhoomi.com/)** | **[Field Researcher and Research Assistant at Animal Law & Policy Network [Salary Rs 30-60K]: Apply by Mar 30](https://jobright.ai/jobs/info/68a1e3ec83d13d1f5b6d5278?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Indiana, United States | On Site | Aug 17 |
 | **[Genesee County MI](http://www.geneseecountymi.gov)** | **[GENESEE COUNTY CLERICAL ELIGIBILITY LIST](https://jobright.ai/jobs/info/68a0ec5dcc9ee94dc9120c74?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Flint, MI | On Site | Aug 16 |
 | **[Moda Health](https://www.modahealth.com/index.shtml)** | **[Social Wellness Advocate](https://jobright.ai/jobs/info/68a0e980cc9ee94dc9120c16?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Portland, OR | On Site | Aug 16 |
 | **[Mohave County](http://www.mohave.gov)** | **[Inmate Release Coordinator](https://jobright.ai/jobs/info/68a0d1b683d13d1f5b6d1b94?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kingman, AZ | On Site | Aug 16 |
