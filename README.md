@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keystone Human Services](https://www.khs.org/#wow-modal-id-2)** | **[Intellectual Disability- Program Supervisor](https://jobright.ai/jobs/info/68b004a0e723db6c9b7b5650?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Harrisburg, PA | On Site | Aug 28 |
+| ↳ | **[Intellectual Disability- Program Supervisor](https://jobright.ai/jobs/info/68b00450b47fb001d688f133?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chambersburg, PA | On Site | Aug 28 |
+| ↳ | **[Intellectual Disability- Program Supervisor](https://jobright.ai/jobs/info/68b0028b13563e782a9f2ee0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Malvern, PA | On Site | Aug 28 |
 | **[uOttawa | Carrières - Careers ](https://www2.uottawa.ca/about-us/careers)** | **[RA-Fall 2025- Dr Stephen Baranyi](https://jobright.ai/jobs/info/68afdccae723db6c9b7b45eb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Social Sciences Building | On Site | Aug 27 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator II](https://jobright.ai/jobs/info/68afcd0fb47fb001d688d409?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Aug 27 |
 | **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[Tuberculosis Epidemiology Program Manager - 20015001](https://jobright.ai/jobs/info/68afc8dce723db6c9b7b3721?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Columbus, OH | On Site | Aug 27 |
@@ -250,6 +253,4 @@ For a complete list, click the following sortable link below:
 | **[Insight Housing](https://bfhp.org)** | **[Men's Shelter Resident Advocate (Wednesday-Saturday, Night Shift)](https://jobright.ai/jobs/info/68a7ffafd627244576e30087?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Berkeley, CA | On Site | Aug 21 |
 | **[Arizona Department of Child Safety](https://dcs.az.gov)** | **[INVESTIGATION ASSISTANT MANAGER](https://jobright.ai/jobs/info/68a76d6f33dd7158bbca7092?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tucson, AZ | On Site | Aug 21 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Development Coordinator, Philanthropic Relations](https://jobright.ai/jobs/info/68a76cc533dd7158bbca6f01?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston-MA | Hybrid | Aug 21 |
-| **[PLACE](https://www.place.com)** | **[Harrisburg/ Greater Susquehanna Valley Area](https://jobright.ai/jobs/info/68a746dc758f2e4ac3feaad1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Shippensburg, PA | On Site | Aug 21 |
-| ↳ | **[Harrisburg/ Greater Susquehanna Valley Area](https://jobright.ai/jobs/info/68a744b6758f2e4ac3fea82a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mechanicsburg, PA | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
