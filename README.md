@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Institute](http://urban.org/)** | **[Research Assistant (Family and Financial Well-Being)](https://jobright.ai/jobs/info/68cc49b17342c7623ae622d9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Oct 01 |
 | **[CoreCivic](http://www.corecivic.com/)** | **[Detention Officer](https://jobright.ai/jobs/info/68c5019a7d0db411427310b0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Estancia, NM | On Site | Oct 01 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/68a4523a541cc3479840b403?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Oct 01 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Energy and Climate Policy](https://jobright.ai/jobs/info/68bf82a35c5d5f14f46d7952?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Sep 30 |
@@ -159,5 +160,4 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Donations Coordinator- Limited Term- 2025357](https://jobright.ai/jobs/info/68d6b023894705799a2ecef2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fort Worth, TX | Hybrid | Sep 26 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Planning Analyst, Bureau of Community Awareness, Action, Response and Engagement (BCAARE)](https://jobright.ai/jobs/info/68d6ad27d3fe025a3015b22d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Queens, NY | Hybrid | Sep 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Guardians of Justice: An Immersive Human Rights Advocacy Experience in the Heart of Guatemala](https://jobright.ai/jobs/info/68b9ba776105227d118974e6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cambridge, MA | Hybrid | Sep 26 |
-| **[Allied Universal](https://www.aus.com/)** | **[Security Officer Armed - Government Cleared](https://jobright.ai/jobs/info/68d6a04345853d0e39cc8af1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-MD-Cumberland | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
