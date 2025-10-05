@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Legislator Assistant](https://jobright.ai/jobs/info/6883f07a835a903aa07f920a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Jefferson City, MO | On Site | Sep 28 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[PERMANENCY ASSISTANT - GALESBURG](https://jobright.ai/jobs/info/68d903259a8e451a446a4316?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Galesburg, IL | Hybrid | Sep 28 |
 | **[By The Bay Health](https://bythebayhealth.org/)** | **[Per diem Social Worker](https://jobright.ai/jobs/info/6812e10b95a614fcadbbd059?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Solano | On Site | Sep 28 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6812661b270f9f79c74803b2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Pasadena, CA | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
