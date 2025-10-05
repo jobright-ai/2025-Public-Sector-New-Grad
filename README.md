@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Full Time Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68da547d07c157682e569ec2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Research Associate](https://jobright.ai/jobs/info/68c374af80e77b1fa6fc9618?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Oct 03 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Public Safety Ambassador](https://jobright.ai/jobs/info/68ada4b3d627244576e4e338?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kennesaw, GA | On Site | Oct 02 |
+| **[Crowe](https://www.crowe.com/)** | **[Public Sector Strategy Analyst](https://jobright.ai/jobs/info/68c2a8f163829b0a8a4fba8a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Oct 02 |
 | **[Ann & Robert H. Lurie Children's Hospital of Chicago](https://www.luriechildrens.org)** | **[Clinical Research Coordinator II](https://jobright.ai/jobs/info/68db2014e9b48513789b1f7a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Streeterville, IL | On Site | Oct 02 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[Research Coordinator-Infectious Disease](https://jobright.ai/jobs/info/686da99a847857cfc763337d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Evanston, IL | On Site | Oct 02 |
 | **[Elwyn](https://www.elwyn.org)** | **[Residential Program Administrator - RN Required](https://jobright.ai/jobs/info/68cda7051ad6b16f0289cf2f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Morgan Hill, CA | On Site | Oct 02 |
