@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Guard - Armed Government Facility Patrol - Part Time](https://jobright.ai/jobs/info/68d9f7cf9a8e451a446a5afd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-CA-San Francisco | On Site | Sep 28 |
 | **[Butte County](http://www.buttecounty.net/)** | **[Code Enforcement Officer I - TERM](https://jobright.ai/jobs/info/68da9c2307c157682e56b65c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Oroville, CA | On Site | Sep 28 |
 | **[State of North Carolina](http://www.nc.gov)** | **[Correctional Case Analyst - Central Prison](https://jobright.ai/jobs/info/68d981a69a8e451a446a4bd4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Raleigh, NC | On Site | Sep 28 |
-| **[State of Missouri](http://mo.gov)** | **[Legislator Assistant](https://jobright.ai/jobs/info/6883f07a835a903aa07f920a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Jefferson City, MO | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
