@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Professional - Government Patrol Unarmed](https://jobright.ai/jobs/info/68d9fc883c03cd3270941edb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Phoenix, AZ | On Site | Sep 28 |
 | ↳ | **[Security Professional Government Patrol Part-Time](https://jobright.ai/jobs/info/68d9fc4d0b832179ca4aa318?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Talladega, AL | On Site | Sep 28 |
 | ↳ | **[Security Guard - Armed Government Facility Patrol - Part Time](https://jobright.ai/jobs/info/68d9f7cf9a8e451a446a5afd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-CA-San Francisco | On Site | Sep 28 |
-| **[Butte County](http://www.buttecounty.net/)** | **[Code Enforcement Officer I - TERM](https://jobright.ai/jobs/info/68da9c2307c157682e56b65c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Oroville, CA | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
