@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Communications Assistant, Foreign and Defense Policy](https://jobright.ai/jobs/info/68d8c894ed09d95201eb70bc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Oct 05 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Full Time Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68da547d07c157682e569ec2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Research Associate](https://jobright.ai/jobs/info/68c374af80e77b1fa6fc9618?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Oct 03 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Public Safety Ambassador](https://jobright.ai/jobs/info/68ada4b3d627244576e4e338?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kennesaw, GA | On Site | Oct 02 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6812661b270f9f79c74803b5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Berkeley, CA | On Site | Sep 29 |
 | **[Mercer County Regional Planning Commission](https://www.mcrpc.com)** | **[Community Development Planner](https://jobright.ai/jobs/info/68da902307c157682e56b106?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mercer, PA | On Site | Sep 29 |
 | **[Serene Health](https://www.serenehealth.com)** | **[Housing Specialist](https://jobright.ai/jobs/info/68b22a581ade4306aa634a89?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Sep 29 |
-| **[Marathon County Government](www.marathoncounty.gov)** | **[Administrative Specialist - Register of Deeds](https://jobright.ai/jobs/info/68da63fa0b832179ca4ad684?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Wausau, WI | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
