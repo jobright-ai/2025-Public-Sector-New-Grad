@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's National Hospital](http://childrensnational.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/68b03c3cb47fb001d6890362?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Oct 09 |
 | **[California Department of Social Services](https://www.cdss.ca.gov/inforesources/cdss-programs/ihss/ihss-career-pathways-program)** | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST](https://jobright.ai/jobs/info/68dae1996df7b8311bb138b4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 08 |
 | **[EY](http://www.ey.com)** | **[Government and Public Sector - Service Delivery Center - Cybersecurity Tech Writer Analyst](https://jobright.ai/jobs/info/68cc7e837342c7623ae65b8f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Antonio, TX | On Site | Oct 08 |
 | **[El Paso County, Colorado, USA](http://www.elpasoco.com/)** | **[Associate Code Enforcement Officer](https://jobright.ai/jobs/info/68cc51d1128dc347fd922875?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Colorado Springs, CO | Hybrid | Oct 08 |
@@ -171,9 +172,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Professional Government Patrol Part-Time](https://jobright.ai/jobs/info/68d5ca801f7fb2169ab13c11?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-AL-Talladega | On Site | Sep 25 |
 | ↳ | **[Security Professional - Armed Site - Government Building](https://jobright.ai/jobs/info/68d5ca0c2116ff37ee09044f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NC-Clinton | On Site | Sep 25 |
 | ↳ | **[Security Professional - Armed - Government Site](https://jobright.ai/jobs/info/68d5c9fa63d77d6f6f3f253b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NC-Lillington | On Site | Sep 25 |
-| ↳ | **[Security Officer - Government Site - Armed Post](https://jobright.ai/jobs/info/68d5c95a63d77d6f6f3f24f2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NC-Lillington | On Site | Sep 25 |
 | ↳ | **[Security Guard – Government Facility Patrol - Full Time](https://jobright.ai/jobs/info/68d5c91e63d77d6f6f3f24de?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NV-Fallon | On Site | Sep 25 |
-| **[Federal Bureau of Investigation (FBI)](http://www.fbi.gov)** | **[Special Agent: Linguistics Expertise](https://jobright.ai/jobs/info/68d5d22f1f7fb2169ab13fd2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver Metropolitan Area | On Site | Sep 25 |
-| **[Citizens for Free Enterprise](https://citizensforfreeenterprise.com/)** | **[Grassroots Engagement Director](https://jobright.ai/jobs/info/68d5aaa963d77d6f6f3f1599?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Omaha, NE | On Site | Sep 25 |
-| **[Crestwood Behavioral Health, Inc.](http://crestwoodbehavioralhealth.com)** | **[Mobile Response Team Peer Support Specialist (Behavioral Health)](https://jobright.ai/jobs/info/68d7561b7a37c712687c8d53?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lompoc, California, United States | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
