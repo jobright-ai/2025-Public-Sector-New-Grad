@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guthrie](http://www.guthrie.org)** | **[Community Health Worker- Strategic Insurance Development-Full Time](https://jobright.ai/jobs/info/68afd4ff13563e782a9f1a73?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Vestal, NY | On Site | Oct 09 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/68b03c3cb47fb001d6890362?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Oct 09 |
 | **[California Department of Social Services](https://www.cdss.ca.gov/inforesources/cdss-programs/ihss/ihss-career-pathways-program)** | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST](https://jobright.ai/jobs/info/68dae1996df7b8311bb138b4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 08 |
 | **[EY](http://www.ey.com)** | **[Government and Public Sector - Service Delivery Center - Cybersecurity Tech Writer Analyst](https://jobright.ai/jobs/info/68cc7e837342c7623ae65b8f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Antonio, TX | On Site | Oct 08 |
@@ -149,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Planning Analyst, Bureau of Community Awareness, Action, Response and Engagement (BCAARE)](https://jobright.ai/jobs/info/68d6ad27d3fe025a3015b22d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Queens, NY | Hybrid | Sep 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Guardians of Justice: An Immersive Human Rights Advocacy Experience in the Heart of Guatemala](https://jobright.ai/jobs/info/68b9ba776105227d118974e6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cambridge, MA | Hybrid | Sep 26 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer Armed - Government Cleared](https://jobright.ai/jobs/info/68d6a04345853d0e39cc8af1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-MD-Cumberland | On Site | Sep 26 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Heart Institute Clinical Research Assoc I/CPT Susan Cheng Team](https://jobright.ai/jobs/info/689dc94efaa4e875e8274443?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
