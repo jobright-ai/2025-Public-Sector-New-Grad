@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMH](https://www.americanhomes4rent.com/)** | **[Market HOA Coordinator](https://jobright.ai/jobs/info/68cc6c40128dc347fd924a74?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Charlotte, NC | On Site | Oct 10 |
 | **[Children's Hospital Los Angeles (CHLA)](http://www.chla.org/)** | **[IRB Administrator / TSRI - Human Research Protection Program / Full-time / Days](https://jobright.ai/jobs/info/683e3c96f41fd750173acb12?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | Remote | Oct 09 |
 | **[Guthrie](http://www.guthrie.org)** | **[Community Health Worker- Strategic Insurance Development-Full Time](https://jobright.ai/jobs/info/68afd4ff13563e782a9f1a73?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Vestal, NY | On Site | Oct 09 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/68b03c3cb47fb001d6890362?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Oct 09 |
@@ -133,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[BCD Meetings & Events](http://www.bcdme.com)** | **[Temporary- Regional Congress Coordinator](https://jobright.ai/jobs/info/68d78be0295f8e37655dd255?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Hybrid | Sep 27 |
 | **[MorningStar Senior Living](https://www.morningstarseniorliving.com/)** | **[Activities Assistant ~ Senior Living Community](https://jobright.ai/jobs/info/68d78368295f8e37655dc647?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boulder, CO | On Site | Sep 26 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Union - Clerk, Utility - Cleanup 2nd](https://jobright.ai/jobs/info/68b9df875f38327491861917?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mankato, MN | On Site | Sep 26 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Assister Program Analyst - State Based Exchange](https://jobright.ai/jobs/info/68d734fad3fe025a3015f98f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Georgia - Fulton - Atlanta | On Site | Sep 26 |
-| **[NexCare WellBridge Senior Living](https://www.nexcarehealth.com)** | **[Social Work Designee - $4,000 Sign On Bonus!](https://jobright.ai/jobs/info/68d7558c7a37c712687c8984?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cadillac, MI | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
