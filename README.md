@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Market HOA Coordinator](https://jobright.ai/jobs/info/689c776279a9f96662538c5c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Nashville, TN | On Site | Oct 11 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Health Policy Analyst - Strategic Initiatives](https://jobright.ai/jobs/info/689c0a8e79a9f966625355c2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Albany, NY | On Site | Oct 11 |
+| **[HDR](http://www.hdrinc.com)** | **[Junior Community Planner](https://jobright.ai/jobs/info/68afc5a013563e782a9f0cef?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 10 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Market HOA Coordinator](https://jobright.ai/jobs/info/68cc6c40128dc347fd924a74?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Charlotte, NC | On Site | Oct 10 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Health Information Management Coordinator](https://jobright.ai/jobs/info/68ce34abb2a74e1837ee0703?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Buffalo, NY | On Site | Oct 10 |
 | **[Guthrie](http://www.guthrie.org)** | **[Community Health Worker-Strategic Insurance Development-Full Time](https://jobright.ai/jobs/info/68b127c4e815524ae11fb795?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Corning, NY | On Site | Oct 10 |
@@ -121,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Legislator Assistant](https://jobright.ai/jobs/info/6883f07a835a903aa07f920a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Jefferson City, MO | On Site | Sep 28 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[PERMANENCY ASSISTANT - GALESBURG](https://jobright.ai/jobs/info/68d903259a8e451a446a4316?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Galesburg, IL | Hybrid | Sep 28 |
 | **[By The Bay Health](https://bythebayhealth.org/)** | **[Per diem Social Worker](https://jobright.ai/jobs/info/6812e10b95a614fcadbbd059?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Solano | On Site | Sep 28 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6812661b270f9f79c74803b2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Pasadena, CA | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
