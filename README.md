@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Unit Clerk (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/68cdb8701ad6b16f0289e37d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | On Site | Oct 11 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Market HOA Coordinator](https://jobright.ai/jobs/info/689c776279a9f96662538c5c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Nashville, TN | On Site | Oct 11 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Health Policy Analyst - Strategic Initiatives](https://jobright.ai/jobs/info/689c0a8e79a9f966625355c2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Albany, NY | On Site | Oct 11 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Research Coordinator to Home-Based CRA (Clinical Research Associate)](https://jobright.ai/jobs/info/689ad25c83d13d1f5b69cb51?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Junior Community Planner](https://jobright.ai/jobs/info/68afc5a013563e782a9f0cef?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 10 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Market HOA Coordinator](https://jobright.ai/jobs/info/68cc6c40128dc347fd924a74?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Charlotte, NC | On Site | Oct 10 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Health Information Management Coordinator](https://jobright.ai/jobs/info/68ce34abb2a74e1837ee0703?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Buffalo, NY | On Site | Oct 10 |
