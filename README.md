@@ -105,7 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Central City Concern](https://centralcityconcern.org)** | **[Street Outreach Worker, QMHA](https://jobright.ai/jobs/info/68ccaceb128dc347fd928155?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Portland, OR | On Site | Sep 29 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6812661b270f9f79c74803ab?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Stanford, CA | On Site | Sep 29 |
 | **[R1 RCM](http://www.r1rcm.com/)** | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/68db22790dffed6f83d2caa6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ogden, UT | On Site | Sep 29 |
-| **[Strive Health](https://strivehealth.com)** | **[Licensed Clinical Social Worker](https://jobright.ai/jobs/info/68db0ccee9b48513789b185b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Columbus, OH | On Site | Sep 29 |
-| ↳ | **[Licensed Clinical Social Worker](https://jobright.ai/jobs/info/68db0c3de9b48513789b1754?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cincinnati, OH | On Site | Sep 29 |
-| ↳ | **[Licensed Clinical Social Worker](https://jobright.ai/jobs/info/68db0bc96df7b8311bb15b16?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Detroit, MI | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
