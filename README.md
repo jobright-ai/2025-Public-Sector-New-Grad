@@ -108,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Strive Health](https://strivehealth.com)** | **[Licensed Clinical Social Worker](https://jobright.ai/jobs/info/68db0ccee9b48513789b185b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Columbus, OH | On Site | Sep 29 |
 | ↳ | **[Licensed Clinical Social Worker](https://jobright.ai/jobs/info/68db0c3de9b48513789b1754?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cincinnati, OH | On Site | Sep 29 |
 | ↳ | **[Licensed Clinical Social Worker](https://jobright.ai/jobs/info/68db0bc96df7b8311bb15b16?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Detroit, MI | On Site | Sep 29 |
-| **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Armed Patrol - Government Site](https://jobright.ai/jobs/info/68daeccb0dffed6f83d2abc1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Asheville, NC | On Site | Sep 29 |
-| **[SPARC](https://sparc.co)** | **[Residential QIDP](https://jobright.ai/jobs/info/68dae7920dffed6f83d2a63b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Springfield, MO | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
