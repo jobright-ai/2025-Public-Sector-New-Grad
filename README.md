@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Root Inc.](https://www.root.com)** | **[Analyst II, Policyholder Experience](https://jobright.ai/jobs/info/68d1adeea54edb3bf3e14fc4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[IRB Assistant](https://jobright.ai/jobs/info/68cfe1e7846f0b04af685b02?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/68235e4eb8c92c2c147443d2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA | On Site | Oct 11 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Unit Clerk (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/68cdb8701ad6b16f0289e37d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | On Site | Oct 11 |
