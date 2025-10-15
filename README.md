@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Root Inc.](https://www.root.com)** | **[Analyst II, Policyholder Experience](https://jobright.ai/jobs/info/68d1adeea54edb3bf3e14fc4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[IRB Assistant](https://jobright.ai/jobs/info/68cfe1e7846f0b04af685b02?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Texas A&M University](https://tamu.edu)** | **[Police Communications Officer](https://jobright.ai/jobs/info/6893aa49a9199876488df17c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | College Station, TX | Hybrid | Oct 11 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/68235e4eb8c92c2c147443d2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA | On Site | Oct 11 |
+| **[City of Omaha](https://www.linkedin.com/company/24832)** | **[Public Works Specialist](https://jobright.ai/jobs/info/68cc626d128dc347fd923f63?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Omaha, NE | On Site | Oct 11 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Unit Clerk (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/68cdb8701ad6b16f0289e37d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | On Site | Oct 11 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Market HOA Coordinator](https://jobright.ai/jobs/info/689c776279a9f96662538c5c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Nashville, TN | On Site | Oct 11 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Health Policy Analyst - Strategic Initiatives](https://jobright.ai/jobs/info/689c0a8e79a9f966625355c2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Albany, NY | On Site | Oct 11 |
