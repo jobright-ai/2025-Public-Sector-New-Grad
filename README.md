@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6828a2a655454ca03aa2605a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | On Site | Oct 15 |
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[IRB Assistant](https://jobright.ai/jobs/info/68cfe1e7846f0b04af685b02?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Texas A&M University](https://tamu.edu)** | **[Police Communications Officer](https://jobright.ai/jobs/info/6893aa49a9199876488df17c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | College Station, TX | Hybrid | Oct 11 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/68235e4eb8c92c2c147443d2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA | On Site | Oct 11 |
