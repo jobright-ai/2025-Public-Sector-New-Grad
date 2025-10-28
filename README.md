@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[SPARC](https://sparc.co)** | **[Residential QIDP](https://jobright.ai/jobs/info/68dae7920dffed6f83d2a63b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Springfield, MO | On Site | Sep 29 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Armed Patrol - Government Site](https://jobright.ai/jobs/info/68dac60907c157682e56d409?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-VA-Norfolk | On Site | Sep 29 |
 | **[Hawaii Pacific University](http://www.hpu.edu/)** | **[Adjunct - Public Administration](https://jobright.ai/jobs/info/68daba2507c157682e56ce47?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Honolulu, HI | On Site | Sep 29 |
-| **[Allied Universal](https://www.aus.com/)** | **[Security Guard - Armed Government Facility Patrol - Part Time](https://jobright.ai/jobs/info/68d9f7cf9a8e451a446a5afd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-CA-San Francisco | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
