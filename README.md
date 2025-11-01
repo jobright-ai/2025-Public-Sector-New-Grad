@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kennesaw State University](http://www.kennesaw.edu)** | **[Public Safety Ambassador](https://jobright.ai/jobs/info/68ada4b3d627244576e4e338?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kennesaw, GA | On Site | Oct 31 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Research Associate](https://jobright.ai/jobs/info/68c374af80e77b1fa6fc9618?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Oct 25 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6812661b270f9f79c74803ab?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Stanford, CA | On Site | Oct 21 |
 | **[Ipsen](http://www.ipsen.com)** | **[Manager, Health Economics and Outcomes Research & Real-World Evidence](https://jobright.ai/jobs/info/68bf3c128e65e77df55b87bb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cambridge, MA | On Site | Oct 21 |
@@ -78,5 +79,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Clinical Research Coordinator to Home-Based CRA (Clinical Research Associate)](https://jobright.ai/jobs/info/689ad25c83d13d1f5b69cb51?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 11 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Research Program Coordinator - 118025](https://jobright.ai/jobs/info/68d70902894705799a2f00db?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | On Site | Oct 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/68c633cb7d0db4114273686c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Oct 05 |
-| **[Kennesaw State University](http://www.kennesaw.edu)** | **[Public Safety Ambassador](https://jobright.ai/jobs/info/68ada4b3d627244576e4e338?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kennesaw, GA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
