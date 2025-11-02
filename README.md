@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/68235e4eb8c92c2c147443d2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA | On Site | Nov 02 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Public Safety Ambassador](https://jobright.ai/jobs/info/68ada4b3d627244576e4e338?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kennesaw, GA | On Site | Oct 31 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Research Associate](https://jobright.ai/jobs/info/68c374af80e77b1fa6fc9618?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Oct 25 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6812661b270f9f79c74803ab?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Stanford, CA | On Site | Oct 21 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Clinical Research Coordinator to Home-Based CRA (Clinical Research Associate) (LA)](https://jobright.ai/jobs/info/689ad0bb5574fd6bc0c8645f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 13 |
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[IRB Assistant](https://jobright.ai/jobs/info/68cfe1e7846f0b04af685b02?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Texas A&M University](https://tamu.edu)** | **[Police Communications Officer](https://jobright.ai/jobs/info/6893aa49a9199876488df17c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | College Station, TX | Hybrid | Oct 11 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/68235e4eb8c92c2c147443d2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA | On Site | Oct 11 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Research Program Coordinator - 118025](https://jobright.ai/jobs/info/68d70902894705799a2f00db?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | On Site | Oct 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/68c633cb7d0db4114273686c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
