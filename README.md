@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoreCivic](http://www.corecivic.com/)** | **[Detention Officer](https://jobright.ai/jobs/info/68c5019a7d0db411427310b0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Estancia, NM | On Site | Nov 04 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Public Safety Ambassador](https://jobright.ai/jobs/info/68ada4b3d627244576e4e338?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kennesaw, GA | On Site | Nov 03 |
 | **[Texas A&M University](https://tamu.edu)** | **[Police Communications Officer](https://jobright.ai/jobs/info/6893aa49a9199876488df17c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | College Station, TX | Hybrid | Nov 02 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/68235e4eb8c92c2c147443d2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA | On Site | Nov 02 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Union - Clerk, Utility - Cleanup 2nd](https://jobright.ai/jobs/info/68b9df875f38327491861917?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mankato, MN | On Site | Oct 18 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6812514899440efe81e28d01?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New Haven, CT | On Site | Oct 18 |
 | ↳ | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6812661b270f9f79c74803b1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cambridge, MA | On Site | Oct 18 |
-| **[CoreCivic](http://www.corecivic.com/)** | **[Detention Officer](https://jobright.ai/jobs/info/68c5019a7d0db411427310b0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Estancia, NM | On Site | Oct 15 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6828a2a655454ca03aa2605a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | On Site | Oct 15 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/682754db38c37f7c8b08a585?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | On Site | Oct 14 |
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[IRB Assistant](https://jobright.ai/jobs/info/68cfe1e7846f0b04af685b02?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Oct 11 |
