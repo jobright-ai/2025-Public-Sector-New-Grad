@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Salvation Army USA Central Territory](https://centralusa.salvationarmy.org/usc/)** | **[Housing Advocate](https://jobright.ai/jobs/info/69114ca8183be660d267b166?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Minneapolis, MN | On Site | Nov 09 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Clinical Research Coordinator - Cancer Center - Clinical Trials Office](https://jobright.ai/jobs/info/6910d7f1988c2b7b4ec52bc5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | On Site | Nov 09 |
 | **[Venture X](https://venturex.com)** | **[Comunity Coordinator](https://jobright.ai/jobs/info/69108fa0988c2b7b4ec5211b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa, FL | On Site | Nov 09 |
 | **[Movement Mortgage](https://movement.com)** | **[Government Insuring Analyst](https://jobright.ai/jobs/info/69105c6e183be660d2678935?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Indian Land, SC | On Site | Nov 09 |
@@ -296,8 +297,4 @@ For a complete list, click the following sortable link below:
 | **[Minnesota State University, Mankato](http://www.mnsu.edu/)** | **[Local Government Auditor](https://jobright.ai/jobs/info/6908b4bcbcccf20de59d2f24?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Moorhead, MN | On Site | Nov 03 |
 | ↳ | **[Local Government Auditor](https://jobright.ai/jobs/info/6908b474d046ab6061ccd3a4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Duluth, MN | On Site | Nov 03 |
 | ↳ | **[Local Government Auditor](https://jobright.ai/jobs/info/6908b311bcccf20de59d2d74?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mankato, MN | On Site | Nov 03 |
-| ↳ | **[Local Government Auditor](https://jobright.ai/jobs/info/6908b272bcccf20de59d2ce7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | St Paul, MN | On Site | Nov 03 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Coordinator I - Department of Neurology (Hybrid)](https://jobright.ai/jobs/info/68ccd9735954791a1d6ffb20?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 03 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Assistant Zoological Park Maintainer, Security, Prospect Park Zoo](https://jobright.ai/jobs/info/68eca164d4b0106e703eae05?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Nov 03 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Research Coordinator to Home-Based CRA (Clinical Research Associate) (LA)](https://jobright.ai/jobs/info/689ad0bb5574fd6bc0c8645f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
