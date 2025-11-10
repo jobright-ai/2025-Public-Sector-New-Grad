@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Florida International University](http://startup.fiu.edu/)** | **[Grant Administrator I - 536167](https://jobright.ai/jobs/info/691205f8ea9ab01b82bef074?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Miami, FL | On Site | Nov 10 |
+| **[State of Missouri](http://mo.gov)** | **[Legislator Assistant](https://jobright.ai/jobs/info/6883f07a835a903aa07f920a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Jefferson City, MO | On Site | Nov 10 |
 | **[City of Spokane](https://my.spokanecity.org/)** | **[Temp Seasonal - Sports Officials (Flag Football Referees and Softball Umpires)](https://jobright.ai/jobs/info/6911dd266018ad4956aabc45?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Spokane, WA | Hybrid | Nov 10 |
 | **[Trilogy](http://www.trilogyvc.com)** | **[Regulatory Launch Coordinator, 2 Hour Learning (Remote) - $100,000/year USD](https://jobright.ai/jobs/info/690a6e2b4a1b456627b07946?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Atlanta, GA | Remote | Nov 10 |
 | ↳ | **[Regulatory Launch Coordinator, 2 Hour Learning (Remote) - $100,000/year USD](https://jobright.ai/jobs/info/690a6902bcccf20de59e1de3?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | Remote | Nov 10 |
@@ -269,8 +271,4 @@ For a complete list, click the following sortable link below:
 | **[Covered California](http://www.coveredca.com/)** | **[HEALTH PROGRAM SPECIALIST I](https://jobright.ai/jobs/info/6909b0814a1b456627b027ff?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | CA | On Site | Nov 03 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST](https://jobright.ai/jobs/info/69098abad046ab6061cd6789?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fresno, CA | On Site | Nov 03 |
 | **[Pinellas County Sheriff's Office](https://www.pcsoweb.com)** | **[Administrative Assistant-Community Policing](https://jobright.ai/jobs/info/690c321c221b890c277fc3b0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Largo, FL | On Site | Nov 03 |
-| **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Government Patrol Part-Time](https://jobright.ai/jobs/info/69098a37d046ab6061cd6736?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Brooklyn | On Site | Nov 03 |
-| **[Optum](https://www.optum.com/)** | **[Behavioral Health Advocate, Field-Based - Southwest VA](https://jobright.ai/jobs/info/69094e3f4a1b456627aff195?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Roanoke, VA | On Site | Nov 03 |
-| **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Behavioral Health Care Advisor- Substance Use Disorders](https://jobright.ai/jobs/info/69094581d046ab6061cd3b35?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Eagan, MN | Remote | Nov 03 |
-| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Program & Policy Analyst](https://jobright.ai/jobs/info/690a85d9d046ab6061cddc8b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Waukesha, WI | Hybrid | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
