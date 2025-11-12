@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Allied Universal](https://www.aus.com/)** | **[Security Professional - Armed Government Patrols PT](https://jobright.ai/jobs/info/6913d98b1465e02904e9824c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Brooklyn | On Site | Nov 11 |
+| **[Young Center for Immigrant Children's Rights](https://www.theyoungcenter.org)** | **[Temporary: Community Engagement Specialist](https://jobright.ai/jobs/info/6914004bd1047e3565d07c3d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 11 |
+| **[Allied Universal](https://www.aus.com/)** | **[Armed Security Professional - Government Site](https://jobright.ai/jobs/info/6913edf2e344172248f75367?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-FL-Miami | On Site | Nov 11 |
+| ↳ | **[Security Professional - Armed Government Patrols PT](https://jobright.ai/jobs/info/6913d98b1465e02904e9824c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Brooklyn | On Site | Nov 11 |
 | ↳ | **[Security Officer - Government Facility Patrol - Part Time](https://jobright.ai/jobs/info/6913d3f8d1047e3565d066ee?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Peekskill | On Site | Nov 11 |
 | ↳ | **[Security Officer - Government Facility Patrol - Part Time](https://jobright.ai/jobs/info/6913ce4e1465e02904e97c18?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Elmsford | On Site | Nov 11 |
 | ↳ | **[Security Professional - Government Patrol - Queens](https://jobright.ai/jobs/info/6913cdc41465e02904e97b97?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Jamaica | On Site | Nov 11 |
@@ -257,8 +259,4 @@ For a complete list, click the following sortable link below:
 | **[California Department of Social Services](https://www.cdss.ca.gov/inforesources/cdss-programs/ihss/ihss-career-pathways-program)** | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST](https://jobright.ai/jobs/info/690b5ec3d046ab6061ce3f73?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Nov 05 |
 | **[R1 RCM](http://www.r1rcm.com/)** | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/68d7d8467796a83635f0c40e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sylva, NC | On Site | Nov 05 |
 | ↳ | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/68db22790dffed6f83d2caa6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ogden, UT | On Site | Nov 05 |
-| **[ISS | Institutional Shareholder Services](http://www.issgovernance.com/)** | **[Research Analyst, Environmental & Social (Temporary)](https://jobright.ai/jobs/info/68eeab77e0db92422580978c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Nov 05 |
-| **[R1 RCM](http://www.r1rcm.com/)** | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/68f471519a63986de7575603?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | St George, UT | On Site | Nov 05 |
-| **[CALPIRG (California Public Interest Research Group)](http://www.calpirg.org)** | **[CALPIRG Zero Waste Campaign Associate](https://jobright.ai/jobs/info/690b39d5221b890c277f3e5c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 05 |
-| ↳ | **[CoPIRG Climate Solutions Campaign Associate](https://jobright.ai/jobs/info/690b3957221b890c277f3e48?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver, CO | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
