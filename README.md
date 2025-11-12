@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Energy and Climate Policy](https://jobright.ai/jobs/info/68f9c5497b893668160341d1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Nov 12 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Per Diem Associate Research Coordinator](https://jobright.ai/jobs/info/691470039c388539cbdec18f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Nov 12 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead ASW AMFT APCC - Outreach Mental Health 336](https://jobright.ai/jobs/info/68f85392a628d10664e81c20?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Santa Ana, CA | On Site | Nov 12 |
+| **[Children's National Hospital](http://childrensnational.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/68a4523a541cc3479840b403?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Nov 12 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Research Coordinator](https://jobright.ai/jobs/info/6914679b6f36db06ef0471e0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Nov 12 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/690dea74d046ab6061cf9d3a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Nov 11 |
 | ↳ | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/690deb68221b890c2780a4b1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Nov 11 |
