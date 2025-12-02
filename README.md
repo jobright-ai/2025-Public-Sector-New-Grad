@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pair Team](https://pairteam.com)** | **[Bilingual Community Health Worker (Remote Flexible, Spanish Speaking)](https://jobright.ai/jobs/info/692eb4974c474121999da94e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Austin, Texas | Remote | Dec 02 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Philanthropy Coordinator (Metro Boston)](https://jobright.ai/jobs/info/692eb008fa28370be26a59db?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Dec 02 |
 | **[Adirondack Watershed Institute](http://www.adkwatershed.org)** | **[AWI Decontamination Program Assistant](https://jobright.ai/jobs/info/692e86cbef4b48533d1405b0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Paul Smiths, NY | On Site | Dec 01 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Armed Government Patrol Full-Time](https://jobright.ai/jobs/info/692e93c04c474121999da1e2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-VA-Norfolk | On Site | Dec 01 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST](https://jobright.ai/jobs/info/692e87764c474121999d9f94?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Diego County, CA | On Site | Dec 01 |
@@ -225,10 +227,4 @@ For a complete list, click the following sortable link below:
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Government Perimeter Patrols](https://jobright.ai/jobs/info/69260ba7d47de4798ecd3eb9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-FL-Orlando | On Site | Nov 25 |
 | ↳ | **[Security Officer - NYS Government Patrol Unarmed](https://jobright.ai/jobs/info/6926087c27bf2f41a2c42ac6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Brooklyn | On Site | Nov 25 |
 | ↳ | **[Security Officer - NYS Unarmed Government Patrol](https://jobright.ai/jobs/info/692606bdd47de4798ecd3af4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Brooklyn | On Site | Nov 25 |
-| **[California Department of Justice](http://www.oag.ca.gov)** | **[Outreach Analyst](https://jobright.ai/jobs/info/692603fad47de4798ecd3932?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fresno, CA | Hybrid | Nov 25 |
-| **[Kansas Office of Judicial Administration](https://www.kscourts.org/)** | **[Secretary II - 29th Judicial District](https://jobright.ai/jobs/info/6926312df0beb07232623010?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kansas City, KS | On Site | Nov 25 |
-| ↳ | **[Secretary II - 29th Judicial District](https://jobright.ai/jobs/info/6925ffd327bf2f41a2c423b3?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kansas City, KS | On Site | Nov 25 |
-| **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Patrol Driver Government Site](https://jobright.ai/jobs/info/69260e47f0beb07232621a57?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-FL-Jacksonville | On Site | Nov 25 |
-| ↳ | **[Security Officer - Government Facility - Part Time](https://jobright.ai/jobs/info/6926153ad47de4798ecd452c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Bronx | On Site | Nov 25 |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Human Services Provider Prog Coord I](https://jobright.ai/jobs/info/6925ea15f0beb0723262041a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lenoir County, NC | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
