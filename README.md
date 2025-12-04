@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's National Hospital](http://childrensnational.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/68a4523a541cc3479840b403?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Dec 04 |
+| **[Illinois Department of Children and Family Services](http://www.DCFS.Illinois.gov)** | **[Intact Services Specialist](https://jobright.ai/jobs/info/6931ab89fa28370be26bd3be?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Olney, IL | On Site | Dec 04 |
+| ↳ | **[Intact Services Specialist](https://jobright.ai/jobs/info/6931ae01fa28370be26bd4c1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | DeKalb, IL | On Site | Dec 04 |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead ASW AMFT APCC - Outreach Mental Health 336](https://jobright.ai/jobs/info/68f85392a628d10664e81c20?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Santa Ana, CA | On Site | Dec 04 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Trauma Registrar (* Colorado Residents Only *)](https://jobright.ai/jobs/info/693143b34c474121999ecdc2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver, CO | On Site | Dec 04 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST](https://jobright.ai/jobs/info/69312a5ffa28370be26b74fc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Alameda, CA | On Site | Dec 03 |
 | **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[Command Language Program Coordinator](https://jobright.ai/jobs/info/6931283aef4b48533d152b9b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Joint Base Lewis-McChord, WA | On Site | Dec 03 |
